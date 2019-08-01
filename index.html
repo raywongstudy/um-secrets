@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Um secrets</title>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0/css/foundation.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<header id="header">
+  <div class="grid-x">
+    <ul class="vertical menu navBarShow align-center" v-bind:class="{navBarShow_:navBarShow}">
+      <a href="#" class="navBarExit" @click="navBarShow = !navBarShow">
+        <span></span>
+        <span></span>
+      </a>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About Author</a></li>
+      <li><a href="#">UMAC Bus</a></li>
+      <li><a href="http://mlcfood.tk/">MLC Canteen</a></li>
+      <li><a href="#">Robot Xiaoting</a></li>
+      <li><a href="#">Game</a></li>
+    </ul>
+  </div>
+  <div class="grid-x" >
+    <div class="cell small-1 header_menu text-center">
+      <a href="#" @click="navBarShow = !navBarShow">
+        <span></span>
+        <span></span>
+        <span></span>
+      </a>
+    </div>
+    <div class="cell auto text-center header_name">UM Secrets</div>
+    <div class="cell small-1 text-center header_user"><a href="#" @click="fullScreen()" style="color:white"><i class="fas fa-user"></i></a></div>    
+  </div>
+</header>
+
+<main id="main">
+  <div class="grid-container" v-show="!post_detail && loading">
+    <a href="#" v-for="post in all_posts" @click="open_detail(post)">
+      <div class="grid-x post">
+        <div class="cell small-1">
+          <i class="fas fa-user-secret" style="font-size:1.2em;padding:5px;color:gray"></i>
+        </div>
+        <div class="cell auto">
+          <div class="grid-x">
+            <div class="cell">
+              <div class="grid-x">
+                <div class="cell small-8 flex_">
+                  <div class="post_author">{{post.post_author}}</div>
+                  <div class="post_time">{{post.post_time}}</div>
+                </div>
+                <div class="cell small-2"><i class="far fa-thumbs-up"></i><span class="post_like">{{post.post_like}}</span></div>
+                <div class="cell small-2"><i class="far fa-comments"></i><span class="post_comments">{{post.post_comments_number}}</span></div>
+              </div>
+            </div>
+            <div class="cell">
+              <div class="grid-x">
+                <div class="cell small-11 post_content">{{post.post_content}}</div>
+              </div>
+            </div>          
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="grid-container" v-show="post_detail">
+    <div class="grid-x">
+      <div class="cell small-12 back_btn_">
+        <a href="#" class="back_btn" @click="back_detail()">
+          <span></span>
+          <span></span>
+        </a>
+      </div>
+      <div class="cell small-12 post_detail_main">
+        <div class="post_detail_box">
+          <div class="post_detail_header">
+            <div class="post_detail_author"><i class="fas fa-user-secret" style="color:yellow"></i> {{post.post_author}} </div>
+            <div class="post_detail_time"> {{post.post_time}}</div>
+            <div class="post_detail_like"><i class="far fa-thumbs-up"></i>{{post.post_like}}</div>
+            <div class="post_detail_comments"><i class="far fa-comments"></i>{{post.post_comments_number}}</div>
+          </div>
+          <div class="post_detail_content">
+            {{post.post_content}}
+          </div>
+        </div>
+        
+      </div>
+      <div class="cell small-12 post_detail_comments">
+        <div class="post_detail_comment" v-for="post_comment in post.post_comments">
+          <div class="post_comment_name"><i class="far fa-id-card"></i> {{post_comment.name}}</div>  
+          <div class="post_comment_text"> {{post_comment.text}}</div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="grid-x">
+    <div class="cell small-12 text-center">CopyRight &copy; 2019 Raywong</div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://kit.fontawesome.com/fe00ed074a.js"></script>
+<script type="text/javascript" src="data.js"></script>
+<script type="text/javascript" src="script.js"></script>
+
+</body>
+</html>
