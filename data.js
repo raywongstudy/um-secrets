@@ -1,2604 +1,2881 @@
 data = [
     {
-        "post_author": "#NUMS87119",
-        "post_time": "16 hrs",
-        "post_content": "小城舊貌，每次行舊澳大斜波，行到索曬氣！懷念舊澳大圖書館及餐廳，正、正！",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87118",
-        "post_time": "16 hrs",
-        "post_content": "全國最美教師選舉剛結束。咁，澳大最美教師系邊個阿？最索女生又系邊個阿？系你？",
-        "post_comments": [
-            {
-                "name": "吳天佑",
-                "text": "我覺得系Rebecca"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87117",
-        "post_time": "16 hrs",
-        "post_content": "愛是一道綠光！超原諒色呀救命⋯",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87116",
-        "post_time": "16 hrs",
-        "post_content": "早兩年就成個澳大都係紅色耐挫閣，今年成個澳大都係原諒色明空閣，咁出年係咩色角呢？😂😂",
-        "post_comments": [
-            {
-                "name": "Chon Wai Leong",
-                "text": "其實想整個湊西閣"
-            },
-            {
-                "name": "Mystinke Leong",
-                "text": "Chon Wai Leong 不如獨能閣？"
-            }
-        ],
-        "post_like": "1",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87115",
-        "post_time": "16 hrs",
-        "post_content": "我發現我室友係gay，點算好？",
-        "post_comments": [
-            {
-                "name": "Jimmy Chong",
-                "text": "享受過程￼"
-            },
-            {
-                "name": "Penny Ng",
-                "text": "Jimmy Chong 師兄 識挽"
-            },
-            {
-                "name": "Jimmy Chong",
-                "text": "Penny Ng 哲學吾哲學先"
-            },
-            {
-                "name": "Penny Ng",
-                "text": "Jimmy Chong 哲學"
-            },
-            {
-                "name": "屈曉峰",
-                "text": "番梘幫到你😂😂"
-            },
-            {
-                "name": "David Ng",
-                "text": "同佢一齊玩下"
-            },
-            {
-                "name": "HouIoi Vong",
-                "text": "反抗唔到咁就好好享受啦"
-            }
-        ],
-        "post_like": "4",
-        "post_comments_number": 7
-    },
-    {
-        "post_author": "#NUMS87114",
-        "post_time": "16 hrs",
-        "post_content": "我屌...\n仲以為咩大型比賽\ninternational ankle breaker\n好撚型呀屌'",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87113",
-        "post_time": "16 hrs",
-        "post_content": "10月是秘密被揭發的月份3",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87112",
-        "post_time": "16 hrs",
-        "post_content": "祝另一個我生日快樂🎂\n天秤座的孩子要快快樂樂！\n'",
-        "post_comments": null,
-        "post_like": "8",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87111",
-        "post_time": "16 hrs",
-        "post_content": "個小三，迎新個時已經覺得佢係個婊子！個名叫__ _，t______ _，有網店，但真係幾醜樣下又橫",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87110",
-        "post_time": "16 hrs",
-        "post_content": "好多政治問題",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87109",
-        "post_time": "16 hrs",
-        "post_content": "姐係個個又矮又跳舞個個警察，同左法律系個個一齊？ 然後吾要個一齊咁多年的女友？定係因為偷食被發現而分？",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87108",
-        "post_time": "16 hrs",
-        "post_content": "明空閣啲人做咩個個都咁假相",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87107",
-        "post_time": "16 hrs",
-        "post_content": "啲保安似賊多過似保安",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87106",
-        "post_time": "16 hrs",
-        "post_content": "誠徵Freelance寫手，主要為動畫影片寫作故事劇本。如有興趣，請按Like，會有人聯絡你講講詳細內容及薪金。",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87105",
-        "post_time": "16 hrs",
-        "post_content": "鍾意左個讀law既女仔，但覺得自己有D高攀唔起",
-        "post_comments": [
-            {
-                "name": "周邦彥",
-                "text": "你係咪想走法律罅？"
-            },
-            {
-                "name": "蔡振熙",
-                "text": "想就去追 遇到鐘意好難嫁"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87104",
-        "post_time": "16 hrs",
-        "post_content": "五毛成日話言論自由唔可以超越一國兩際 但有冇諗過邊個踐踏一國兩制先😓",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87103",
-        "post_time": "16 hrs",
-        "post_content": "wdnmd",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87102",
-        "post_time": "16 hrs",
-        "post_content": "送左部iphone11比女友，點知佢拎去賣左，無奈",
-        "post_comments": null,
-        "post_like": "12",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87101",
-        "post_time": "16 hrs",
-        "post_content": "大家做個條扑街既同學或朋友小心d 一有少少野唔啱佢聽 書都唔駛讀",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87100",
-        "post_time": "16 hrs",
-        "post_content": "7仔冇左微波爐\n學生會可唔可以做野 係e6放返部比學生用？\n其實學生會除左例行活動 我真係唔知學生會為學生做過d咩'",
-        "post_comments": [
-            {
-                "name": "Apple Lam",
-                "text": "中立過"
-            }
-        ],
-        "post_like": "11",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87099",
-        "post_time": "16 hrs",
-        "post_content": "如果有最古怪室友選舉，我一定提名我室友！請對號入座",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87099",
-        "post_time": "error",
-        "post_content": "error",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87097",
-        "post_time": "16 hrs",
-        "post_content": "噶你老母",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87096",
-        "post_time": "16 hrs",
-        "post_content": "有時候真係唔想同某種人嘈\n根本已經被愛國主義衝昏曬頭腦，拜託唔好咁自我中心啦。\n不過我知，有時罵佢地我都驚教精咗佢地。慳返淡氣好過啦。'",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87095",
-        "post_time": "16 hrs",
-        "post_content": "圖書館前面搭咁大個舞台，幾乎廷伸到馬路到\n唔知係咪驚人係到集會？'",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87094",
-        "post_time": "16 hrs",
-        "post_content": "篤教授灰嘅學生，聽講佢老豆做官，唔撚怪得咁撚愛文革，支持文化大革命？以下用書面語講驚佢睇唔明。\n你當官的爸讓你舉報教授？如果你他媽是自願的，那你甚麼時候回去舉報你爹？還有你全家？操你媽b！十四億中國人民的血汗錢讓你們家貪污了多少？你他媽花的每一分錢就連黎這讀書的學費一分一毫都有中國人的血中國人的汗！我真他媽以你為恥！跟你做同學都覺得噁心，你他媽滾回家先舉報舉報你爹吧！'",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87093",
-        "post_time": "16 hrs",
-        "post_content": "https://www.facebook.com/1582709865326795/posts/2362849163979524?sfns=mo\n個女仔全裸死左 學校只肯公開部分片段 仲要改條片 又話天網恢恢 疏而不漏既 定係跟本鬧唔過政府？ 佢話你係自殺 就係自殺？'",
-        "post_comments": [
-            {
-                "name": "Natalie Hoiiankei",
-                "text": "但我好好奇點解數字後兩個行人跳針期間都係順住行..."
-            },
-            {
-                "name": "Apple Lam",
-                "text": "澳門人仲未慣？"
-            }
-        ],
-        "post_like": "4",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87092",
-        "post_time": "16 hrs",
-        "post_content": "今日同個fd傾兩句就聽到佢放左個大屁，仲要迎風飄來勁臭屁味，我好佩服自己扮無野繼續傾落去",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87091",
-        "post_time": "16 hrs",
-        "post_content": "今日終於透過朋友識到個男神，高高大大幾靚仔，一傾之下發覺佢係真男神，神經既神！",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87090",
-        "post_time": "16 hrs",
-        "post_content": "人生最瘀莫過於係暗戀對象前出醜，今日比佢發現條褲爆呔仲要露底底，真係好想喊",
-        "post_comments": null,
-        "post_like": "13",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87089",
-        "post_time": "16 hrs",
-        "post_content": "时间会证明这个账号的存在有多愚蠢和尴尬\n講緊自己個ac? '",
-        "post_comments": null,
-        "post_like": "16",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87088",
-        "post_time": "16 hrs",
-        "post_content": "真心多鳩謝澳大保安，希望你地每日都出黎制造白色恐怖，就係因為你地咁做，先令更多人去了解現況，令更多人意識到自由既重要\n#香港加油 #奶共可恥'",
-        "post_comments": null,
-        "post_like": "26",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87087",
-        "post_time": "16 hrs",
-        "post_content": "https://www.youtube.com/watch?v=8BiUwk2apRA",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87086",
-        "post_time": "16 hrs",
-        "post_content": "成日要我車你返學放學 你乜錢都唔出 你唔怕唔好意思㗎？",
-        "post_comments": [
-            {
-                "name": "Chio Ka Linglinglinglingling",
-                "text": "Chloe Sitou 等你車番我"
-            },
-            {
-                "name": "Chloe Sitou",
-                "text": "Chio Ka Linglinglinglingling 要吾要命"
-            },
-            {
-                "name": "Billy Chao",
-                "text": "Tom Siu 比錢"
-            },
-            {
-                "name": "Andy Wong",
-                "text": "アイ ザック比番油錢你 對唔住🤣"
-            },
-            {
-                "name": "アイ ザック",
-                "text": "Andy Wong 。"
-            },
-            {
-                "name": "KaHei Wu",
-                "text": "Sunny Choi 良心有冇唔舒服"
-            },
-            {
-                "name": "Sunny Choi",
-                "text": "KaHei Wu 我地咁熟何必講錢"
-            },
-            {
-                "name": "Benny Wu",
-                "text": "Hoi Meng Lo梳 要你成日車我食橋記"
-            },
-            {
-                "name": "Lo Hoi Meng",
-                "text": "Benny Wu 肯俾錢我未￼"
-            },
-            {
-                "name": "Ian Lou",
-                "text": "Thomas Ho 係我唔啱😭"
-            },
-            {
-                "name": "Thomas Ho",
-                "text": "Ian Lou 到你考車車我返學未"
-            },
-            {
-                "name": "Ian Lou",
-                "text": "仲返學, 返工啦你"
-            },
-            {
-                "name": "Thomas Ho",
-                "text": "Ian Lou 下次唔車了"
-            },
-            {
-                "name": "Leon Cheong",
-                "text": "Thomas Ho 車埋唔該"
-            },
-            {
-                "name": "Phoebe Hui",
-                "text": "Ho Chi ChengLam Iani又鬧我"
-            },
-            {
-                "name": "Lam Iani",
-                "text": "Phoebe Hui 坐到爆肽都未同你計"
-            },
-            {
-                "name": "Ho Chi Cheng",
-                "text": "Phoebe Hui 你嘅問題 唔係因為錢"
-            }
-        ],
-        "post_like": "14",
-        "post_comments_number": 17
-    },
-    {
-        "post_author": "#NUMS87085",
-        "post_time": "18 hrs",
-        "post_content": "cytc有小粉紅嘅同黨係度\n聽到係佢send ppt俾戈小粉紅，佢仲諗住報一個澳門手足去學生註册處，曲髮膚白黑色圓框眼鏡，身高175左右\ncytc嘅手足小心啲\n坐係對面戈個澳門人，自已好自為之，恥與為伍。'",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87084",
-        "post_time": "18 hrs",
-        "post_content": "既然學校班膠層同保安唔俾我貼連儂牆，我就貼自己部單車，然後將部連儂單車泊喺當眼位！如果保安夠膽搞我部單車，有啲咩損失我唯你是問！",
-        "post_comments": [
-            {
-                "name": "John Bill",
-                "text": "咪玩啦，人地當然夠膽搞你部單車，仲有廣大的內地同學一齊搞添"
-            }
-        ],
-        "post_like": "38",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87083",
-        "post_time": "18 hrs",
-        "post_content": "古代人真係有好多方式去表達自己嘅感情\n牆未必一定要係牆，可以係船，可以係紙飛機\n澳大大成咁，wifi一出門口就斷線，你估到到都做到有cam?\nStart letting the security busy la'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87082",
-        "post_time": "18 hrs",
-        "post_content": "想問吓COMM1000 pro.che嘅，俾佢點咗幾次名都唔係度，會唔會到時話我出席唔夠唔俾我考。",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87081",
-        "post_time": "18 hrs",
-        "post_content": "粵華喲仔一屆差L個一屆，今年無咩幾個見得人",
-        "post_comments": [
-            {
-                "name": "U Hio Fong",
-                "text": "Jason Wong上幾屆有你老友先咁高質"
-            },
-            {
-                "name": "Jason Wong",
-                "text": "U Hio Fong 型撚到.."
-            },
-            {
-                "name": "Penny Ng",
-                "text": "Jimmy Chong 當我明哥冇度"
-            },
-            {
-                "name": "Jimmy Chong",
-                "text": "Penny Ng 夠喇😂￼￼"
-            },
-            {
-                "name": "Allen Wan",
-                "text": "Lou Ka Hou 哭呀"
-            }
-        ],
-        "post_like": "1",
-        "post_comments_number": 5
-    },
-    {
-        "post_author": "#NUMS87080",
-        "post_time": "18 hrs",
-        "post_content": "其實\n你嫌我地屋企唔乾淨 屋企人講既說話唔岩你聽 咁你咪走囉 洗乜係道搞咁多野\n大家會明我講咩\n篤9我出黎啦'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87079",
-        "post_time": "18 hrs",
-        "post_content": "free hi bye bridge with freedom",
-        "post_comments": null,
-        "post_like": "20",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87078",
-        "post_time": "18 hrs",
-        "post_content": "去左GPAD2009堂，明明敎授立場唔偏頗，講野有文有路，資料齊全。果三位大陸生到底係有幾玻璃心先會揾位投訴？",
-        "post_comments": null,
-        "post_like": "35",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87077",
-        "post_time": "18 hrs",
-        "post_content": "聽Shawn Mendes演唱會散場嘅時候聽到有人叫「光復香港，時代革命」，雖然好細聲，但係我都好感動。",
-        "post_comments": null,
-        "post_like": "25",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87076",
-        "post_time": "18 hrs",
-        "post_content": "作为一个爱澳的内地生，我希望大家不要再伤害和诋毁那些为了我们的生命安全而尽职尽责的人了，希望大家表达意见之前先认真思考，咱都大学生了。\n说让我滚回大陆的人，大陆也不欢迎你们\n最后，去NBA上海场看球的中国崽种连虚鲲菜都不如\n'",
-        "post_comments": [
-            {
-                "name": "New UM Secrets - Backup",
-                "text": "對！我也不看NBA了"
-            },
-            {
-                "name": "Lok Kakin",
-                "text": "看最后一句就知道你也没有认真思考"
-            },
-            {
-                "name": "陳寶康",
-                "text": "香港人都係為左佢地（下一代）既未來同生命安全而反抗"
-            },
-            {
-                "name": "Kit Wong",
-                "text": "澳門人都就黎絕種你仲話愛澳門"
-            },
-            {
-                "name": "Lei Io Chong",
-                "text": "黃文杰 可能係愛沃門"
-            },
-            {
-                "name": "姚蚊子的日記",
-                "text": "这是不是平常不看NBA的人在反串的"
-            },
-            {
-                "name": "Kelvin D Gaoson",
-                "text": "谁稀罕你欢迎啊? 倒是你们不被別人欢迎还是一车车送去美国"
-            }
-        ],
-        "post_like": "40",
-        "post_comments_number": 7
-    },
-    {
-        "post_author": "#NUMS87075",
-        "post_time": "error",
-        "post_content": "error",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87074",
-        "post_time": "18 hrs",
-        "post_content": "嶺南足球隊守龍門戈個真心好樣衰 好心唔好po自己個樣出黎啦",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87072",
-        "post_time": "18 hrs",
-        "post_content": "澳門啲舖頭多數都藍就梗架啦，你話整黃藍List應該會成版都藍，但最近其實都有興趣想整一個list，至少整個黃list等大家可以支持下啲黃色小店，但問題來啦，雖然諗到點收集，但點樣發佈會比較好，唔怕咁做反而害咗啲小店成為藍絲攻擊對象呢？（雖然我覺得澳門啲藍絲冇咁醒），集思廣益，求大家俾啲意見？",
+        "post_author": "#NUMS88742",
+        "post_time": "2019年12月30日 02:49",
+        "post_content": " '(上學期完sem前)\n我:你好，我想係下個學期修多科\n學院:(說明).....同埋要睇埋你今個學期(上學期)的Grade再決定批唔批\n(下學期add/drop開始)\n我:你好，我想係今個學期修多科\n(冇回覆)\n.\n.\n.\n.\n.\n.\n我屌你老母，等你出晒分選科都過左一半啦，仲有科比我搶到????'",
         "post_comments": null,
         "post_like": "9",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS87071",
-        "post_time": "18 hrs",
-        "post_content": "記得2016年在澳門路氹城新開的某賭場因為為了符合安全定話衛生檢查，節省人力而將一樽樽水倒光。估唔到除左資本家會咁無良外，這種無良黑心的行為會發生在藍絲口中所講話會「維持秩序、保護市民」的香港警察身上。\n中國大陸有幾多在山區的同胞想飲啖乾淨水都冇，在美國加州不斷的乾旱而導致山火，有幾多人無乾淨水飲飲到肚生蟲同渴死，黑警居然將呢d行為當娛樂重要笑？不單止混入示威遊行扮示威者同帶領人去破壞屈示威者係暴徒，重要浪費我地寶貴的資源？所謂「人一藍，腦便殘」呢個道理係無錯。到呢刻都重支持香港警察的真係我請你番大陸，去落後的山區過世唔好再到文明社會支持破壞。\nhttps://m.facebook.com/watch/?v=1387156641436046&_rdr'",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87070",
-        "post_time": "18 hrs",
-        "post_content": "書都冇乜點讀過，又話要畢業。感覺浪費左4年。",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87069",
-        "post_time": "18 hrs",
-        "post_content": "徐同學？係咪MLC戈條_老宇菲徐",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87068",
-        "post_time": "18 hrs",
-        "post_content": "我係藍絲！🙂",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87067",
-        "post_time": "18 hrs",
-        "post_content": "_那人幾十年嚟都冇變過 明明畀極權統治緊 仲要幫個政權講好說話 唔知斯德哥爾摩症候群有冇得醫呢\nhttps://imgur.com/Vxif196'",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87066",
-        "post_time": "18 hrs",
-        "post_content": "既然咁多大陸仔而家追緊secrets 啲post，咁不如好好利用Secrets 做好文宣，比佢哋知到個運動做緊乜比，佢哋知到佢哋自己幾撚井底，比佢哋知道佢哋國家其實講緊嘅大話！",
-        "post_comments": null,
-        "post_like": "17",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87065",
-        "post_time": "18 hrs",
-        "post_content": "大陸同學們，唔洗皇帝唔急太監急喎，如果香港係搞港獨，你哋偉大嘅黨一早就名正言順出解放軍“收復”班“亂港分子”啦。咁愛國嘅你覺得好激氣嘅，不妨去微博轉發翻十次八次「我係護旗手」？或者試下申請去天安門廣場集會支持香港警察嘅🌚，你個祖國咁自由，集會遊行當然冇問題。",
-        "post_comments": null,
-        "post_like": "13",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87064",
-        "post_time": "18 hrs",
-        "post_content": "https://youtu.be/s4strTk9xLk\n希望各位睇下依咖嘅情況已經係幾嚴重，最好睇曬全條片，有埋數據對比，9/1-10就有28個人「被」自殺！都未計9月25日之後發現嘅屍體，醒下啦，澳門人'",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87063",
-        "post_time": "18 hrs",
-        "post_content": "我不怕失去，只怕自己毫無底線的自我失去。",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87062",
-        "post_time": "18 hrs",
-        "post_content": "劉澤基呢d就係正宗的毒品，明明自己就係黑警就話人地純粹亂作唱衰佢，你自己做過咩心知肚明，你自己果頭近就咪唸辦法臨死都想毒害社會未來的主人翁，我地唔想同你一樣咁腐敗\nhttps://m.facebook.com/watch/?v=750977912013429&_rdr'",
+        "post_author": "#NUMS88741",
+        "post_time": "2019年12月30日 02:48",
+        "post_content": " '淨找葡紙英文點講？",
         "post_comments": [
-            {
-                "name": "HengChon Leong",
-                "text": "劉sir可以去共享大灣區榮譽啦"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87062",
-        "post_time": "error",
-        "post_content": "error",
-        "post_comments": [
-            {
-                "name": "HengChon Leong",
-                "text": "劉sir可以去共享大灣區榮譽啦"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87060",
-        "post_time": "18 hrs",
-        "post_content": "號召各位齊齊貼memo， 邊到都可以",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87059",
-        "post_time": "18 hrs",
-        "post_content": "有冇人有beco2001 Econometrics 嘅midterm舊卷？有意出售嘅麻煩like下尼個post 我會私add番你 thx 有酬🙏🏻",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87058",
-        "post_time": "18 hrs",
-        "post_content": "【短期調查】\n誠徵多名兼職\n工作內容: 監測道路上車輛承載量\n薪酬: MOP 70/小時\n有意者請填寫以下表格...\nSee More",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87057",
-        "post_time": "18 hrs",
-        "post_content": "電視大過天",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87056",
-        "post_time": "18 hrs",
-        "post_content": "：「你好醜」、「無家教」、「支那」、「蝗蟲」、「賤人」、「批鬥」，試想當別人用這些字句去標籤你的時候，你會有什麼感受。仇恨的開始可能只是一個小的漏洞，當你以仇恨去對抗仇恨，那會變成沙丘，懸崖，社會會變成無盡的黑洞。而生活在黑洞裡的人，曾經舉手可及的光變成奢侈品。 大家請放下仇恨，偏激，不要針對好嗎？",
-        "post_comments": [
-            {
-                "name": "Johnny Wu",
-                "text": "我都唔想咁 係佢地真係有啲過份"
-            },
-            {
-                "name": "Cheang Hoi",
-                "text": "第一句係我照鏡時會講"
-            }
-        ],
-        "post_like": "2",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87055",
-        "post_time": "18 hrs",
-        "post_content": "睿曦閣有大半嘅人都係上一屆學生會訓練過黎嘅，我就想問你地最後一個嘅政見，推動校園時事關注，你點保證你地做的出黎，之前都有澳大自由講而家都冇喇！而家簡簡單單一個學生會，只要少少嘅政治問題，都可以shut down，只要有少少風聲話要立連儂牆，就有個保安係度stand by，甚至六一二暴力鎮壓，港台大學都有譴責，只有我地澳大都唔敢出聲，如果你地再唔表達清楚，我地大家就都畀你地不信任票，五毛例外。",
-        "post_comments": null,
-        "post_like": "25",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87054",
-        "post_time": "18 hrs",
-        "post_content": "果個koey成日懶多frd 其實佢知吾知自己好煩",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87053\n",
-        "post_time": "19 hrs",
-        "post_content": "即係個小三係大一？",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87052",
-        "post_time": "19 hrs",
-        "post_content": "唔滿意咪withdraw囉，搞乜撚野小動作姐，人人意見一定要同你一樣架？你唔死翻大陸讀書？食辣條食撚到你傻柒左？你成個人都有毒啊大毒瘤",
-        "post_comments": [
-            {
-                "name": "Vladimir Ng",
-                "text": "唔比你咁話辣條，要話就話地溝油"
-            },
-            {
-                "name": "Lok Kakin",
-                "text": "地溝油辣條"
-            }
-        ],
-        "post_like": "28",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87051",
-        "post_time": "19 hrs",
-        "post_content": "People see what they want to see.",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87050",
-        "post_time": "19 hrs",
-        "post_content": "點解野野都係馬萬棋，係咪間書院本身就好有問題，之前仲話係咁播啲內地新聞片，內地生好多落到黎都係跟返自己人圍爐，係唔係反而不利於內地生認識其他資訊，培養唔到批評性思維？憑咩隔離個張xx同期開始咁耐都冇咩問題，一個馬萬棋就係咁出事？",
-        "post_comments": null,
-        "post_like": "11",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87049",
-        "post_time": "19 hrs",
-        "post_content": "想要全澳大嘅cam位置，方便遍地開花。",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87048",
-        "post_time": "19 hrs",
-        "post_content": "港乜撚野獨，佢地遊行邊忽話要獨立，十幾億人無一個有思考能力，比自己國家cut晒資訊得返d愛國情懷同遊行點點點，用下腦啦",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87047",
-        "post_time": "19 hrs",
-        "post_content": "想同嗰幾位“愛國”學生講，教授都係人，都會有自己觀點，咩都中立冇意見就唔會做到你教授。最重要嘅係理性討論同相互尊重，你同教授政見唔同，大可以大方拎出嚟互相討論。郁啲就拎“獨”、“分裂國家”出嚟喺背後抹黑人，唔係成年人應有嘅作為。首先反送中運動一開頭目標非常之單一，就係要政府撤回修訂逃犯條例，而6月12號之後，開始有啲比較激進嘅示威活動，一大部份原因係因為香港政府完全無視和理非嘅聲音。之後香港示威者開始提出“五大訴求”，入面完全冇一條係講香港獨立建國，更多嘅係要求政府徹查警方濫暴，以及要求落實基本法承諾嘅普選。唔知係因為信息唔對稱（內地媒體把五大訴求渲染成“獨獨獨獨獨”）定同學選擇性失明，將反送中運動，或者支持反送中運動嘅人，又或者只係闡述事實（新疆、西藏嘅事，仲有好多被大陸用口袋罪（例如大名鼎鼎嘅煽顛）拘禁嘅維權人士）嘅人定性做港獨，我認為實在係有失偏頗。即使教授表達咗支持反送中運動嘅立場，但反送中運動根本就唔係你所諗嘅“獨獨獨獨獨”，我認為完全冇問題，更何況教授從來冇表達過，似乎只係你哋愛國學生自己聯想嘅。好心肉身出得嚟，唔該思想唔好留喺牆入面，試下多啲由唔同角度了解件事，咁先唔會做咗政權隻棋。",
-        "post_comments": null,
-        "post_like": "10",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87046",
-        "post_time": "19 hrs",
-        "post_content": "個人覺得言論自由並不應該保障損害他人言論自由既言論",
-        "post_comments": [
-            {
-                "name": "Apple Lam",
-                "text": "所以咪有法院囉"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87045",
-        "post_time": "19 hrs",
-        "post_content": "大一先聽講澳大有民主牆 被消失左咩？",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87044",
-        "post_time": "19 hrs",
-        "post_content": "有冇人偷偷地講監事____閣主席係未真有精神病？",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87043",
-        "post_time": "19 hrs",
-        "post_content": "幫身邊同學參軍未?\n#以身報黨'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87042",
-        "post_time": "19 hrs",
-        "post_content": "篤灰狗，\n徐宇飛FSS, MLC\nWECHAT ID: XYF199805___\nIG: yvesc___\n澳大見到要小心，小心講錯野比佢篤灰報串將你送中。'",
-        "post_comments": [
-            {
-                "name": "姚蚊子的日記",
-                "text": "查唔到喔 你確定呢個係啱嘅？？"
-            },
-            {
-                "name": "吳天佑",
-                "text": "有冇樣啊"
-            }
-        ],
-        "post_like": "36",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87041",
-        "post_time": "19 hrs",
-        "post_content": "有得揸車邊個想搭巴士",
-        "post_comments": [
-            {
-                "name": "Jason Wong",
-                "text": "Marvin Choi你好似鍾意搭巴士喎"
-            },
-            {
-                "name": "Marvin Choi",
-                "text": "Jason Wong 環保出行"
-            },
-            {
-                "name": "Billy Chao",
-                "text": "Ka Hin Hao最緊要安全"
-            },
-            {
-                "name": "Chon Fat Lao",
-                "text": "Ho Salad 你鍾意搭巴士喎"
-            },
-            {
-                "name": "Salad Ho",
-                "text": "Chon Fat Lao 要睇下同邊個搭姐"
-            }
-        ],
-        "post_like": "19",
-        "post_comments_number": 5
-    },
-    {
-        "post_author": "#NUMS87040",
-        "post_time": "19 hrs",
-        "post_content": "徐宇飛 XU YUFEI SB622983",
-        "post_comments": [
-            {
-                "name": "Aquamarine Athena White",
-                "text": "做得好👍👍"
-            },
-            {
-                "name": "Chi Leong Ip",
-                "text": "參軍未 信教未 器官健康嗎？"
-            },
-            {
-                "name": "吳天佑",
-                "text": "有冇樣啊"
-            },
-            {
-                "name": "Zenia Mynyn",
-                "text": "吳天佑 去佢fb咪有囉"
-            },
-            {
-                "name": "胡靜雯",
-                "text": "伊斯蘭教"
-            }
-        ],
-        "post_like": "65",
-        "post_comments_number": 5
-    },
-    {
-        "post_author": "#NUMS87039",
-        "post_time": "19 hrs",
-        "post_content": "啲人煩唔煩？大一開始TAG 大四。。。係無女就無女！",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87038",
-        "post_time": "19 hrs",
-        "post_content": "呢句野專登比班大陸厘睇 特別最鐘意標籤化 唱衰兼篤灰教授哥條友\n無懼白色恐怖 支持楊鳴宇教授\n我支持兼捍衛澳門言論自由和學論自由\n你們可以打我了'",
-        "post_comments": [
-            {
-                "name": "Sam Chao",
-                "text": "但係你唔轉簡體🤔又唔係書面語"
-            },
-            {
-                "name": "Chris Chau",
-                "text": "Sam Chao 有道理🤔"
-            }
-        ],
-        "post_like": "62",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87037",
-        "post_time": "19 hrs",
-        "post_content": "'比D 時間人哋適應下啦\n人地十幾廿歲人 都未睇過真新聞架\n包容下ok?'",
-        "post_comments": null,
-        "post_like": "10",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87036",
-        "post_time": "19 hrs",
-        "post_content": "'\nhttps://www.facebook.com/303668637132303/posts/583334282499069/?sfnsn=mo&d=n&vh=e'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87035",
-        "post_time": "19 hrs",
-        "post_content": "呂志和邊個最靚女？",
-        "post_comments": [
-            {
-                "name": "Chi Leong Ip",
-                "text": "呂志和"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87034",
-        "post_time": "19 hrs",
-        "post_content": "SHEAC High table dinner難食過書院飯 , 不過有鬼仔養下眼咁",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87033",
-        "post_time": "19 hrs",
-        "post_content": "言論自由沒錯是基於尊重不同思想，沒有人希望感到被冒犯，但過份信奉單一的民族主義和愛國主義又真能讓你客觀理性地討論嗎？\n這樣下去，學術還能夠自由嗎？這樣就真能打造出你們理想中受世界敬佩的文明嗎？\nhttps://www.facebook.com/cablechinadesk/videos/2549395531846239/?sfnsn=mo&d=n&vh=e\n'",
-        "post_comments": [
-            {
-                "name": "Natalie Hoiiankei",
-                "text": "聽講舉報有錢收🤔 唔知真唔真呢"
-            }
-        ],
-        "post_like": "9",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87032",
-        "post_time": "19 hrs",
-        "post_content": "究竟點解講到 大灣區 大陸 咁好\n但係要落嚟澳門讀書啊?\n係唔愛國啊? 定係唔愛黨啊?\n番大陸喇 DLLM'",
-        "post_comments": [
-            {
-                "name": "Vladimir Ng",
-                "text": "岩呀，跟埋個呀sir一切上深圳讀唔好?"
-            }
-        ],
-        "post_like": "30",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87032",
-        "post_time": "error",
-        "post_content": "error",
-        "post_comments": [
-            {
-                "name": "Vladimir Ng",
-                "text": "岩呀，跟埋個呀sir一切上深圳讀唔好?"
-            }
-        ],
-        "post_like": "50",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87031",
-        "post_time": "October 13 at 1:01 AM",
-        "post_content": "保安令人感到不安",
-        "post_comments": [
-            {
-                "name": "俞沛泉",
-                "text": "有保安在才讓人有安全感，澳門不歡迎造反的人"
-            },
-            {
-                "name": "郭嘉",
-                "text": "俞沛泉 有城管的地方也很安全呢"
-            },
-            {
-                "name": "郭嘉",
-                "text": "對了我教你一個四字成語，鵲巢鳩佔。誰不歡迎誰？滾回你的大陸吧！"
-            },
-            {
-                "name": "司徒歐陽",
-                "text": "郭嘉 你怎麼這麼有素質🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤🤤"
-            },
-            {
-                "name": "郭嘉",
-                "text": "試著說質素，不要說素質🙂"
-            },
-            {
-                "name": "俞沛泉",
-                "text": "郭嘉 城管？你对城管可能有些误解吧"
-            },
-            {
-                "name": "Lam Joe",
-                "text": "支那賤種滾回支那"
-            },
-            {
-                "name": "程子",
-                "text": "Lam Joe 你怎麼有兩個屁眼？"
-            },
-            {
-                "name": "Terence Kuong",
-                "text": "俞沛泉 保安唔係用泥監視學生架on9"
-            },
-            {
-                "name": "Leong ManIn",
-                "text": "你的安全感原來是保安給你的。真是可悲的人呢"
-            }
-        ],
-        "post_like": "45",
-        "post_comments_number": 10
-    },
-    {
-        "post_author": "#NUMS87030",
-        "post_time": "October 13 at 1:01 AM",
-        "post_content": "今日舉報教授，聽日舉報老豆",
-        "post_comments": null,
-        "post_like": "74",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87029",
-        "post_time": "October 13 at 1:01 AM",
-        "post_content": "起條支那仔底貼佢個樣係全澳大，等多d人識佢",
-        "post_comments": [
-            {
-                "name": "Johnny Wu",
-                "text": "唔好咁啦 增加仇恨無好處"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "咁你同某國有咩分別🤔🤔"
-            },
-            {
-                "name": "吳天佑",
-                "text": "This guy?"
-            },
-            {
-                "name": "吳天佑",
-                "text": "Yyes xu?"
-            },
-            {
-                "name": "Ray Lao",
-                "text": "腦呢？"
-            }
-        ],
-        "post_like": "34",
-        "post_comments_number": 5
-    },
-    {
-        "post_author": "#NUMS87028",
-        "post_time": "October 13 at 1:01 AM",
-        "post_content": "發起全澳大運動全力支持楊嗚宇教授！死支那仔夠膽死係澳門玩支那篤灰個招，未撚死過啊！係澳門人就支持教授，打倒條支那仔！",
-        "post_comments": [
-            {
-                "name": "標汪",
-                "text": "楊嗚宇真係澳門人"
-            }
-        ],
-        "post_like": "173",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87027",
-        "post_time": "October 13 at 1:01 AM",
-        "post_content": "講時事 講政治=傷害13億人民感情\n玻璃心乎?'",
-        "post_comments": null,
-        "post_like": "60",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87026",
-        "post_time": "October 13 at 1:00 AM",
-        "post_content": "簡單點，沒有市民的警察算什麼？全副武裝的暴徒！警察？？？？市民希望你維持秩序保護佢地，市民既想法你地都有份，政府出糧比你地就背信棄義？",
-        "post_comments": [
-            {
-                "name": "Apple Lam",
-                "text": "你搞錯咗啲嘢，政府嘅錢係由稅收而來"
-            }
-        ],
-        "post_like": "9",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87025",
-        "post_time": "October 13 at 1:00 AM",
-        "post_content": "這實在太有道理，內地生、藍絲必看\nhttps://m.facebook.com/watch/?v=433247317540601&_rdr'",
-        "post_comments": null,
-        "post_like": "9",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87024",
-        "post_time": "October 13 at 12:59 AM",
-        "post_content": "如果大家同意呢篇文章 希望可以不同渠道分享出去 也希望看到這篇文章的人能夠耐心一点看下去\n對於最近香港發生的事情 大家都有目共睹 有人支持警察 亦有人支持示威者 在此有一些說話想對支持警察的人說 希望你們可以用不同的角度想一下\n由最貼近澳門生活的說起 黑杉 口罩 這些以往對許多人來說己成習慣 而如今在澳門 卻會被歧視 原因是認為他們支持示威者 而在香港 這樣的問題更嚴重 更容易成為警察搜查的對象 黑杉和口罩就像是嫌疑犯的特徵 可能你會說 這都是示威者暴力帶來的後果 但警言的暴力你有看到嗎?\n抗爭到現在的數月裏 ''自殺人數''是正常的多少倍? 而當中許多都是青年 也曾參與過遊行示威 當中許多案件都令人驚訝 但警方卻認為沒有可疑拒絕調查 若你支持應嚴厲執法 那你應責罵警方 在721事件警方的不作為 還有其他的事件中 只因為他們的攻擊對象是示威者 至今仍逍遙法外 ...\n\n\n\nSee More",
-        "post_comments": [
-            {
-                "name": "Xavier Li",
-                "text": "你漏咗出街食催淚彈有錢收同外國勢力。文筆好唔好冇所謂，但排版係硬傷。\n#不完美，可理解，有改善空間"
-            }
-        ],
-        "post_like": "18",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87023",
-        "post_time": "October 13 at 12:59 AM",
-        "post_content": "祈求暴動與腦殘萬世都不朽\n我願榮光歸暴徒'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87022",
-        "post_time": "October 13 at 12:59 AM",
-        "post_content": "好想睇多次男神劈彎",
-        "post_comments": [
-            {
-                "name": "Kain Leong",
-                "text": "Teddy Cheong 洗車 今晚上秋名山"
-            },
-            {
-                "name": "Teddy Cheong",
-                "text": "Kain Leong 請車長安全駕駛"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "Teddy Cheong 已進入大學範圍"
-            },
-            {
-                "name": "Teddy Cheong",
-                "text": "Kain Leong 車輛已進入大學校區，請車長安全駕駛，切勿超速！"
-            },
-            {
-                "name": "Amos Lei",
-                "text": "Teddy Cheong佢只開50"
-            }
-        ],
-        "post_like": "1",
-        "post_comments_number": 5
-    },
-    {
-        "post_author": "#NUMS87021",
-        "post_time": "October 13 at 12:59 AM",
-        "post_content": "究竟PJC男神係邊個姐 想識ar",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87020",
-        "post_time": "October 13 at 12:58 AM",
-        "post_content": "愛國青年居然在Instagram抵制 震驚十四億人 其實呢位同學 你上得IG 不如GOOGLE埋相關既新聞報導 大學生啦 應該有獨立思考既能力 唔好為BAN而BAN",
-        "post_comments": [
-            {
-                "name": "Kain Leong",
-                "text": "入學考試都唔洗考獨立思考能力\n點解你會覺得大學生就會具備🤔"
-            }
-        ],
-        "post_like": "17",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87019",
-        "post_time": "October 13 at 12:58 AM",
-        "post_content": "#NUMS86853 回司徒歐陽\n我中文水平冇問題。我地澳門人支持香港有咩問題？澳門人反對香港示威者其實冇咩大問題，最煩的係在澳門親共人士日日在茶餐廳發表黑心言論，醜化示威者同美化警察的行為，不停叫人離開香港。\n在10月2日我聽到有藍絲大叔在茶餐廳話10月1日的槍案，我聽完佢的見解好壓迫同心塞\n（睇新聞）...\n\n\n\n\n\n\n\n\nSee More",
-        "post_comments": [
-            {
-                "name": "Lok Kakin",
-                "text": "下次試下將（佢的回應）反問返佢，睇下佢點答"
-            }
-        ],
-        "post_like": "15",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87018",
-        "post_time": "October 13 at 12:57 AM",
-        "post_content": "作為一個敢講香港加油的澳門人，我會用盡我最大努力抵制藍絲同紅底商店，澳門大部分都藍，當然要由最大的開始落手！\n澳門Starbucks，都係香港美心所管理的，我已把所有Starbucks的coupon同app的錢用光用淨，以後都不光臨香港美心旗下的企業～ 以及藍絲商店'",
-        "post_comments": null,
-        "post_like": "12",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87017",
-        "post_time": "October 13 at 12:57 AM",
-        "post_content": "唔通我一個打十個又話你知咩？做人謙虛D好～",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87016",
-        "post_time": "October 13 at 12:57 AM",
-        "post_content": "希望各位同學花2-3分鐘幫手做個問卷，論文之用，感激！\nhttps://docs.google.com/…/1FAIpQLSez5ERL8Q9ACVq2T…/viewform…'",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87015",
-        "post_time": "October 13 at 12:56 AM",
-        "post_content": "毒奶粉毒疫苗就真係毒啦",
-        "post_comments": null,
-        "post_like": "12",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87014",
-        "post_time": "October 13 at 12:56 AM",
-        "post_content": "馬萬琪書院 徐宇飛 篤個pro 灰咁仆街",
-        "post_comments": [
-            {
-                "name": "Lam Cheng Fong",
-                "text": "fc?"
-            },
-            {
-                "name": "吳天佑",
-                "text": "就系yyes xu ?"
-            },
-            {
-                "name": "郭嘉",
-                "text": "Yves xu"
-            }
-        ],
-        "post_like": "30",
-        "post_comments_number": 3
-    },
-    {
-        "post_author": "#NUMS87013",
-        "post_time": "October 13 at 12:56 AM",
-        "post_content": "如果美麗是一種罪，我覺得我罪大惡極！自我陶醉中🤣🤣🤣",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87012",
-        "post_time": "October 13 at 12:56 AM",
-        "post_content": "室友唱歌好難聽，但又成日係房開個人演唱會，又唔好意思話佢，我可以點做？",
-        "post_comments": [
-            {
-                "name": "Siddy Huang",
-                "text": "幫佢報名歌唱比賽"
-            },
-            {
-                "name": "Man Chan",
-                "text": "你唱得難聽過佢～ 大返佢！🤣"
-            },
-            {
-                "name": "Chon Wai Leong",
-                "text": "點解唔同佢一齊唱？唱得好聽令佢羞愧，唱得難聽令佢收皮"
-            },
-            {
-                "name": "Phoebe Hui",
-                "text": "Ieng Lei Lao 又唱"
-            },
-            {
-                "name": "Ieng Lei Lao",
-                "text": "Phoebe Hui 點會係我？我唱歌咁好聽🤤"
-            },
-            {
-                "name": "Ieng Lei Lao",
-                "text": "繞樑三日"
-            },
-            {
-                "name": "Phoebe Hui",
-                "text": "Ieng Lei Lao 聽到我硬硬DER"
-            },
-            {
-                "name": "Nga Man Chan",
-                "text": "Bonnie Wong報咩創業阿 報歌唱比賽仲好🤙🏻"
-            },
-            {
-                "name": "Kc Ho",
-                "text": "Andrew Ieong 對唔住囉~"
-            },
-            {
-                "name": "Andrew Ieong",
-                "text": "Kc Ho下次請你在飯堂高歌一曲"
-            },
-            {
-                "name": "Tang James",
-                "text": "Ka Hong Ma你又唔係我室友都黎我間房唱歌係咩事"
-            },
-            {
-                "name": "Ivy Chao",
-                "text": "Vanessa Choi你呀🤣"
-            },
-            {
-                "name": "Vanessa Choi",
-                "text": "其實有人喺度我唔敢唱㗎🤣🤣🤣如果唔係po主打廣東話我真係驚會係四川廁友🤣🤣🤣🤣😂😭"
-            },
             {
                 "name": "Donald Lok",
-                "text": "你可以開住胖虎唱歌既影片嚟暗嘲你室友"
-            }
-        ],
-        "post_like": "25",
-        "post_comments_number": 14
-    },
-    {
-        "post_author": "#NUMS87011",
-        "post_time": "October 13 at 12:56 AM",
-        "post_content": "其實memo唔一定要連儂，唔一定要係hi bye橋，唔一定要集中。\n只要有心，邊到都可以痴，實行全澳大都痴，遍地開花。你叫啲保安出呢守哂全澳大呀，好唔好呀？\n只要有心如流水，遍地可成開花田。\n橫大噤了學生嘴，周圍卻是皆可連。'",
-        "post_comments": [
-            {
-                "name": "Ron Lei",
-                "text": "提提大家 澳門智慧街燈 澳大試行中😷"
-            }
-        ],
-        "post_like": "38",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87010",
-        "post_time": "October 13 at 12:55 AM",
-        "post_content": "原本係諗住幫你過渡完就算\n但係宜家對你有另一種感覺\n係一條唔可以穿越嘅界線'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87009",
-        "post_time": "October 13 at 12:55 AM",
-        "post_content": "有冇得去ctm換modem? 唔想用屎為",
-        "post_comments": [
-            {
-                "name": "HengChon Leong",
-                "text": "好似你大廈隻switch咩牌子就成棟大廈都要用果個牌子既modem\n買過第層樓好似實際啲"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87008",
-        "post_time": "October 13 at 12:55 AM",
-        "post_content": "Del撚曬d大陸app佢啦 仲話學人反抗",
-        "post_comments": [
-            {
-                "name": "Xavier Li",
-                "text": "換咗新機就冇Down過🤗"
+                "text": "clean find grape paper"
             },
             {
-                "name": "Leong ManIn",
-                "text": "又系你"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87007",
-        "post_time": "October 13 at 12:55 AM",
-        "post_content": "想知澳大關智斌有無女，想溝",
-        "post_comments": [
-            {
-                "name": "Chan Fong Lam",
-                "text": "呀仔多艷遇細粒唐"
-            }
-        ],
-        "post_like": "10",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS87006",
-        "post_time": "October 13 at 12:54 AM",
-        "post_content": "泰仔狗完未呀 癩蛤蟆想吃天鵝肉",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87005",
-        "post_time": "October 13 at 12:54 AM",
-        "post_content": "我想問下有無人係快槍手？",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87004",
-        "post_time": "October 13 at 12:54 AM",
-        "post_content": "📍📍 FSS招聘入戶問卷調查員\n** 只限澳大學生👩🏻‍🎓👨‍🎓 **\n時段：二〇一九年 十月至十二月\n時間：每天的2PM ～ 9PM都可以返工（具體時間自選）\n要求：需能用粵語流利溝通...\n\nSee More",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS87003",
-        "post_time": "October 13 at 12:54 AM",
-        "post_content": "https://www.facebook.com/305753509524171/posts/2042168449215993?sfns=mo\n講D唔岩自己聽的又要玩批鬥 咁做咩唔返上去讀要死落黎讀'",
-        "post_comments": [
-            {
-                "name": "Jimmy Lai",
-                "text": "James Yue 手足"
+                "name": "Song On Yueh",
+                "text": "Change in Patacas only?"
             },
             {
-                "name": "James Yue",
-                "text": "黎晉庭 ￼￼￼揀科一齊讀？"
+                "name": "Roy LO",
+                "text": "Leon Deng你識唔識？"
             },
             {
-                "name": "Jimmy Lai",
-                "text": "James Yue k"
-            }
-        ],
-        "post_like": "16",
-        "post_comments_number": 3
-    },
-    {
-        "post_author": "#NUMS87002",
-        "post_time": "October 13 at 12:53 AM",
-        "post_content": "號召澳大學生到N6空地，聲援教授，遣責該名學生的行為，要求學校行政處分該名學生，影響學術自由。",
-        "post_comments": [
-            {
-                "name": "Cheang Hoi",
-                "text": "直接去 sit堂， 一四，11:30-12:45，E22，G015"
+                "name": "Leon Deng",
+                "text": "Roy LO only Macau dollars"
             },
             {
-                "name": "吳天佑",
-                "text": "好"
-            }
-        ],
-        "post_like": "95",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87001",
-        "post_time": "October 13 at 12:53 AM",
-        "post_content": "如果邊個閣願意公開聲明支持教授嘅話，我諗佢好大機會會赢",
-        "post_comments": [
-            {
-                "name": "Joke Dov",
-                "text": "咁你又唔公開去支持？"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "贏"
-            }
-        ],
-        "post_like": "24",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS87000",
-        "post_time": "October 13 at 12:53 AM",
-        "post_content": "學術自由不應超越一國兩際”\nby 使用簡體字名字為普通話拼音被證實為內地生的愛國愛澳澳大學生\n咁樣稱呼夠唔夠政治正確啊候選人？\nhttps://www.facebook.com/305753509524171/posts/2042168449215993?sfns=mo'",
-        "post_comments": [
-            {
-                "name": "Vincent Kuok",
-                "text": "制"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86999",
-        "post_time": "October 13 at 12:52 AM",
-        "post_content": "GPAD2009，add爆佢",
-        "post_comments": null,
-        "post_like": "33",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86998",
-        "post_time": "October 13 at 12:52 AM",
-        "post_content": "黎黎黎，我地一齊批鬥教授，中國傳統文化黎架嘛\n幾十年後終於由大陸帶到黎澳門，厲害了我的國\n你講野唔合我心意我就投訴你，搞大佢，批鬥你，滅你聲，合乎我黨作風\n雙擊給愛心666\n死返大陸讀書做護旗手啦屌你老母芝麻仔，學術自由講野都要批，我知道大陸有d教授就因為怕撚左你班自以為愛國撚，就只識依書直說，因為深怕講錯野飯碗都冇鳩埋，如果大學評分唔再係由科研數據評分，大陸會有幾多間入到世界排名？一堆工具人除左幫學校刷數據就全無用處，最重要既批判性思維都學唔到都叫讀書？'",
-        "post_comments": [
-            {
-                "name": "標汪",
-                "text": "同一班有三個党員,就要建立党委,所以,他們真的有任務"
-            },
-            {
-                "name": "胡靜雯",
-                "text": "笑死"
-            }
-        ],
-        "post_like": "68",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS86997",
-        "post_time": "October 13 at 12:52 AM",
-        "post_content": "點樣unsubscribe UM News letter同StudentBlog既email🤦🏻‍♀️",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86996",
-        "post_time": "October 13 at 12:51 AM",
-        "post_content": "依加嗰個候選理事長同香港何君堯無咩分別\n下屆唔樂觀'",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86995",
-        "post_time": "October 13 at 12:51 AM",
-        "post_content": "見到抵制就諗起上年D&G事件\n用筷子食pizza同 意粉就辱華\n有期四院有pizza食 大陸生個個都無用筷子？\n中西合壁定辱華 真係睇你點講'",
-        "post_comments": [
-            {
-                "name": "Lok Kakin",
-                "text": "我建議用手食意粉"
-            },
-            {
-                "name": "Jay Choi",
-                "text": "有冇留意清楚係咪真係淨係用筷子食pizza就屌佢辱華呀"
-            },
-            {
-                "name": "Tin Nok Ho",
-                "text": "Jay Choi 真係唔識架啵佢"
-            }
-        ],
-        "post_like": "15",
-        "post_comments_number": 3
-    },
-    {
-        "post_author": "#NUMS86994",
-        "post_time": "October 13 at 12:51 AM",
-        "post_content": "相比係你地既政綱 財政 我比較想知下一届學生會會唔會提供一個給別人自由發聲既機會, 就好似連儂牆咁",
-        "post_comments": [
-            {
-                "name": "Leo Wong",
-                "text": "曬氣啦"
-            }
-        ],
-        "post_like": "19",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86993",
-        "post_time": "October 13 at 12:51 AM",
-        "post_content": "三院有個超高嘅靚仔，好J",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86992",
-        "post_time": "October 13 at 12:51 AM",
-        "post_content": "如果是有緣無份，那為什麼還要相遇呢？",
-        "post_comments": [
-            {
-                "name": "Lo Kai Kai",
-                "text": "中意戈陣咪有緣囉 吾中意咪無份囉"
-            }
-        ],
-        "post_like": "6",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86991",
-        "post_time": "October 13 at 12:49 AM",
-        "post_content": "想講下近日係澳大內地生同埋本地生嘅問題嘅一啲個人想法。其實港澳本身就有殖民留低嘅色彩，本身同大陸果一套意識形態諗法就係有分別，一套用以人為本，人權行先，一套用大局為重，國家行先，其實冇話對與錯，係意識形態嘅問題，一國兩制就好似呢個問題嘅解決方法，但係同時令到兩種唔同嘅想法互相碰撞，兩種唔同價值觀最後尾一定會引發罵戰，因為大家都冇係大家嘅角度去諗，睇問題用一個點去睇而唔係用一條線去睇，本地生想維護返自己嘅權利同價值，言論自由，學術自由。內地生重視主權議題，愛國情懷。\n同時，中央權力係最大，通過政府，利益，人口，慢慢咁，轉變本地人嘅諗法慢慢逐漸接近大陸果套，但同時亦都係壓迫緊本地人嘅意識形態，被邊緣化，香港就個好例子，一個大壓迫環境下，自己價值嘅嘢被剝奪先會反抗得咁西利，咁啱澳門因為歷史問題親中，所以嗰個形態先唔會咁激烈，但唔代表澳門人唔重視自己嘅價值觀。\n我知道一定有好多新移民同學仔，講我代表唔到佢哋，但我係覺得如果你係澳門出世，接受澳門嘅教育，土生土長，你先可以否定我嘅諗法，因為你由細到大嘅意識形態已經構建左，就好似我嘅價值觀同埋想法都與你不同。\n最後 我想講嘅係，「和諧唔係100個人講同一句說話，和諧係有100個人，有100句唔同嘅說話之餘，而又互相尊重。」'",
-        "post_comments": [
-            {
-                "name": "郭嘉",
-                "text": "澳門人重視就唔會搞到今時今日咁。難聽啲講句，你地每年收緊當日中流彈戈位先生既帛金去食訓玩痾。言論自由？集會自由？who fucking cares？最緊要有得太二喜茶睇睇新說唱。廣東話？無用啦，MC Jin都比人DQ左，要識蝗語先有用。\n\n所以我話，馮瑞權、林衍生、歐文龍呢啲官沃豚值得擁有。"
-            },
-            {
-                "name": "Terence Lou",
-                "text": "講還講，5好咒人死\n人地中流彈仲生鈎鈎係到"
-            }
-        ],
-        "post_like": "9",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS86990",
-        "post_time": "October 13 at 12:49 AM",
-        "post_content": "講真其實可以留吓啲大陸生嘅發言，笑吓都好呀",
-        "post_comments": [
-            {
-                "name": "郭嘉",
-                "text": "人地禁你言你仲笑？你覺唔覺自己好好笑？"
+                "name": "Siwai Chan",
+                "text": "Christy Chan 學野"
             }
         ],
         "post_like": "3",
-        "post_comments_number": 1
+        "post_comments_number": 5
     },
     {
-        "post_author": "#NUMS86989",
-        "post_time": "October 13 at 12:49 AM",
-        "post_content": "圖書館外面搞咩咁大排野?",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86988",
-        "post_time": "October 13 at 12:49 AM",
-        "post_content": "神は乗り越えられる試練しか与えない\nhttps://youtu.be/EmqAX2Xo_CM'",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86987",
-        "post_time": "October 13 at 12:48 AM",
-        "post_content": "澳大有冇蟲系魔法師？",
-        "post_comments": [
-            {
-                "name": "Chon Wai Leong",
-                "text": "師兄你有所不知啦～其實澳大有個魔法學院，專門培訓蟲系、蝸牛系同青蛙系既魔法師。"
-            }
-        ],
-        "post_like": "2",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86986",
-        "post_time": "October 13 at 12:48 AM",
-        "post_content": "我室友晚晚凌晨睇金宵大廈～ 勁細膽驚驚青青，睇到蒙曬眼！小姐～ 你睇到我以為你睇緊鬼片呀🤣",
-        "post_comments": null,
-        "post_like": "10",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86985",
-        "post_time": "October 13 at 12:48 AM",
-        "post_content": "放咁多保安係hibye橋到\n#白色恐怖'",
-        "post_comments": null,
-        "post_like": "8",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86984",
-        "post_time": "October 13 at 12:48 AM",
-        "post_content": "澳大依家充斥住白色恐怖\n校園受到監視\n教授提及有關港澳政治就被大陸生舉報\n大家覺得咁樣真係正常？定係大家唔願意去面對？\n你地可能會話 “如果唔搞事 佢地咪唔會監視我地囉”...\n\n\n\n\n\n\n\n\n\n\n\n\n\nSee More",
-        "post_comments": [
-            {
-                "name": "胡靜雯",
-                "text": "加油"
-            },
-            {
-                "name": "Amy Cai",
-                "text": "支持nba 唔好搞亂澳門\n去美國\n支持英超西甲德甲法甲意甲，唔好搞亂澳門…See More"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "唔好搞亂澳門!!!!"
-            },
-            {
-                "name": "Kit Wong",
-                "text": "都話呢到係橫琴"
-            }
-        ],
-        "post_like": "125",
-        "post_comments_number": 4
-    },
-    {
-        "post_author": "#NUMS86983",
-        "post_time": "October 13 at 12:48 AM",
-        "post_content": "暴雨太可怕～但我相信雨後定必有彩虹🌈，可以有紅橙黃綠青藍紫⋯",
+        "post_author": "#NUMS88740",
+        "post_time": "2019年12月30日 02:48",
+        "post_content": " '幾時先出得晒啲grade!",
         "post_comments": null,
         "post_like": "4",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86982",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "屌！傳說之中的中法大口阿嬸真係名不虛傳，好撚煩，聞說以為自己好撚靚，成日去姣啲官。老實講，睇佢個樣，應該最少30歲，仲以為自己好後生發撚曬姣，其實著到成隻雞咁",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86981",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "中學受歡迎嘅人無論去到邊都會繼續受歡迎落去 邊緣人反之。點解我會知？唉唔好提",
+        "post_author": "#NUMS88739",
+        "post_time": "2019年12月30日 02:48",
+        "post_content": " 'green energy 必讀！！！！聽君一言，勝讀十年就係出自呢度！add",
         "post_comments": [
             {
-                "name": "Chon Fat Lao",
-                "text": "同我做朋友"
-            }
-        ],
-        "post_like": "1",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86980",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "呢四個月香港人經歷漫長的抗爭，一直都係五大訴求，缺一不可，根本冇一個訴求提到港獨，破壞一國兩制的係林鄭政府，林鄭呢個垃圾政府，不斷利用警隊濫用暴力打壓香港市民，無數年輕人不惜犧牲生命，為香港未來為下一代爭取民主自由，林鄭政府的社區對話根本係一場政治公關show，對話完無回應，仲要利用緊急法繞過立法會一審二讀實施蒙面法，進一步打壓香港人的自由，蒙面法只係緊急法的前奏，每一次所做的嘢不但不能止暴制亂，只會火上加油，越止越亂，呢條送中惡法搞到香港生靈塗碳，摧毀無數家庭，犠牲無數生命，回歸22年為何香港人個心仲未回歸，因為共匪黨不斷利用香港呢個國際金融中心地位幫你做外滙貿易，助大咗呢個剎人獨裁政權，不斷打壓剝奪香港人自由民主，明明應承給香港人雙普選，最終食言，仲話港人治港，簡直荒言，搞到咗呢個地步，香港人已無退路，背水一戰，既使明知到輸都要寧為玉碎，不為瓦全，攬住你共匪黨一齊死，繼續打壓人民自由民主，夜郎自大，到處欺善怕惡，我相信第三次世界大戰好快會，到時全世界圍剿你中國共匪黨，我願意參軍，消滅共匪黨呢個剎人如麻的政權。",
-        "post_comments": null,
-        "post_like": "18",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86979",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "建議澳門同學仔多d親近內地生，留意下佢地著咩名牌住咩豪宅，最好有機會去埋佢地屋企旅行，影低晒d奢華野，好似名牌貴錶跑車等等，同埋最好知道埋佢地屋企人開咩公司或者做咩高官，越詳細越好，然後send俾國家反貪局，為祖國反貪貢獻一分力🤪",
-        "post_comments": null,
-        "post_like": "18",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86978",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "聽講有教授叫學生上堂唔好著黑衫，求FC",
-        "post_comments": null,
-        "post_like": "12",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86977",
-        "post_time": "October 13 at 12:47 AM",
-        "post_content": "澳大幾時搞皇室戰爭大專盃好想玩",
-        "post_comments": null,
-        "post_like": "4",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86976",
-        "post_time": "October 13 at 12:46 AM",
-        "post_content": "即刻起條支那仔底捉佢出來批鬥！咁撚鐘意玩文革篤灰啊啦，無啦啦屈教授支持港獨？我而家同你講就係支持港獨又如何！支持澳大手足用支那人既方式對待返支那人！",
-        "post_comments": null,
-        "post_like": "3",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86975",
-        "post_time": "October 13 at 12:46 AM",
-        "post_content": "講自殺澳門領先香港4年\nhttps://zh.m.wikipedia.org/zh-tw/賴敏華'",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86974",
-        "post_time": "October 13 at 12:46 AM",
-        "post_content": "返大陸啦五毛！https://www.facebook.com/443827749299003/posts/1017250558623383?sfns=mo\n被洗腦真可怕！\n沒有獨立思考的能力真可怕！'",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86973",
-        "post_time": "October 13 at 12:46 AM",
-        "post_content": "你班bitch靜小小啦，次L次上堂都嘈L住曬！",
-        "post_comments": [
-            {
-                "name": "Lei Weng Lam",
-                "text": "Chiman Tang 靜少少"
+                "name": "West Allen",
+                "text": "Chonmeng Cheong"
             },
             {
-                "name": "Chiman Tang",
-                "text": "Lei Weng Lam 話緊你啊bitch"
-            }
-        ],
-        "post_like": "1",
-        "post_comments_number": 2
-    },
-    {
-        "post_author": "#NUMS86972",
-        "post_time": "October 13 at 12:46 AM",
-        "post_content": "有個叫Tou既大陸人係微信到cap secret圖 揚言要打人罵人係廢青，你咁樣講系唔會令我地驚架。人地為左自由民主公義站出來捍衛家園，反觀你一日工都冇番過，只會用父母的錢去玩去蒲去旅行，咁都講得出其他人系廢青果然系大陸人既goodest logic(呢一句系反諷，驚你睇唔明😊)，唔好比我見到有一日你移民來香港澳門呀～",
-        "post_comments": [
-            {
-                "name": "Kain Leong",
-                "text": "佢話你廢青既意思係你要番工先有錢而佢唔洗"
-            }
-        ],
-        "post_like": "11",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86971",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "可以體諒下肥人的感受嗎？可唔可以唔好成日叫著黑衫！我鐘意著黑衫係因為我肥，著黑會瘦D！唔想因為著黑被標籤政治立場～",
-        "post_comments": [
-            {
-                "name": "Johnny Wu",
-                "text": "你唔搞政治 政治會搞你"
-            }
-        ],
-        "post_like": "24",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86970",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "終於知咩叫做‘好朋友’！我好朋友叫我大學時唔好太認真讀書要輕鬆玩，當我plan好呢四年既遊玩大計，點知佢捉我去快快樂樂學葡文，又話要考普通話，仲報N個課程～叫我好好裝備自己，說好的輕鬆玩呢？！識到佢我每日都過得好充實⋯",
-        "post_comments": null,
-        "post_like": "10",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86969",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "成日見大家去食太二飲喜茶，真係有甘好食咩？我兩間都未試過，今日比人笑我太out ，而笑我既人係我阿媽！",
-        "post_comments": null,
-        "post_like": "9",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86968",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "致所有不問自取噶小偷們: 偷單車、偷文具、偷衫、偷底褲、偷野食、偷遮.....屌你老母系咪真系窮撚到甘撚樣，折墮到偷其他人d野來用....",
-        "post_comments": null,
-        "post_like": "10",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86967",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "笑能死\nhttps://na.cx/i/pOtbRnd.jpg'",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86966",
-        "post_time": "October 13 at 12:45 AM",
-        "post_content": "成日見到老死條女暗撻其它囝 平時為咗收兵又唔公開自己有囝 真係好撚慘 揀個扮腥港人嘅大陸雞 後果就喺咁 扮吓純喺囝囝面前扮下女神姣下囝就真喺當咗自己女神 翻去你個腥港咪搞鳩我朋友啦 新腥港人",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86965",
-        "post_time": "October 13 at 12:44 AM",
-        "post_content": "今學期個Miss好靚，望著佢我根本專心唔到上堂",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86964",
-        "post_time": "October 13 at 12:44 AM",
-        "post_content": "比男朋友發現我睇鹹片，勁尷尬，有無人遇過🤣",
-        "post_comments": [
-            {
-                "name": "Johnny Wu",
-                "text": "同好姐"
+                "name": "Ka Chon Phang",
+                "text": "Ring Vonng"
             },
             {
-                "name": "Chon Wai Leong",
-                "text": "師兄，大家男人怕咩，最多咪一齊睇"
+                "name": "Richard Mou",
+                "text": "The New William FokFelix Vong"
             },
             {
-                "name": "姚蚊子的日記",
-                "text": "可能男朋友就問你 要唔要現場體驗"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 3
-    },
-    {
-        "post_author": "#NUMS86963",
-        "post_time": "October 13 at 12:44 AM",
-        "post_content": "今日好似見到d食q撕走memo紙",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86962",
-        "post_time": "October 13 at 12:44 AM",
-        "post_content": "想問下各位點睇抵制NBA之後 琴晚座無虛席 仲有人拎住國旗搵球星簽名 😂😂",
-        "post_comments": null,
-        "post_like": "34",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86961",
-        "post_time": "October 13 at 12:44 AM",
-        "post_content": "藍絲啲邏輯真係世界級\n即係做PLAY GIRL就=無人權?\n做妓女就可以比人強姦?\n藍絲一定係有腦?\n都係嗰句,人一藍, 腦就殘...\n\nSee More",
-        "post_comments": null,
-        "post_like": "17",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86960",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "Psp某啲是非精講完八卦未？相由心生 咁醜樣點做mentor啊？",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86959",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "PSP唔好咁低趣味好冇 日柒日玩cream 成個e6又吵 玩到地下都係黑曬又污糟 垃圾計劃垃圾人。",
-        "post_comments": [
-            {
-                "name": "吳天佑",
-                "text": "Psp有咩搞架"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86958",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "其實group project唔係淨係係wechat有出過聲就叫有做...",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86957",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "黃絲力量是強大的。啲人夠膽po自己朋友圈 唔夠膽就向呢到用本尊留言？沒種！",
-        "post_comments": [
-            {
-                "name": "胡靜雯",
-                "text": "#下一位唔該\n#講到口都就黎臭埋"
+                "name": "The New William Fok",
+                "text": "Richard Mou 都唔知佢聽邊個講"
             },
             {
-                "name": "Kain Leong",
-                "text": "你講乜春??\nBTW 我係本尊"
+                "name": "Chon Kit Lam",
+                "text": "Fong Ya ？"
             },
             {
-                "name": "LokMan Wong",
-                "text": "最威系你啦"
+                "name": "Fong Ya",
+                "text": "Chon Kit Lam 過左成年幾 green energy都變no energy啦 仲add"
             },
             {
-                "name": "Tina Ip",
-                "text": "sorry i dont hv we7 my bad but i do post on social media that u need vpn to assess oops fyi it is illegal to use vpn in china!"
+                "name": "WengIn Iu",
+                "text": "ManHou Pau"
             },
             {
-                "name": "Lei Io Chong",
-                "text": "留名睇你本尊 唔好又要威又要戴頭盔"
+                "name": "ManHou Pau",
+                "text": "WengIn Iu 搵你夾堂"
             },
             {
-                "name": "Chawy Chan",
-                "text": "Choi Kits型"
-            },
-            {
-                "name": "Choi Kits",
-                "text": "Chawy Chan 你仲型"
-            },
-            {
-                "name": "Lei Io Chong",
-                "text": "Chawy Chan JM9"
-            },
-            {
-                "name": "姚蚊子的日記",
-                "text": "佢地夠膽都無用 到後黎我地又睇吾到"
-            },
-            {
-                "name": "Wong Yik",
-                "text": "係唔撚係呀？"
-            },
-            {
-                "name": "Chi Leong Ip",
-                "text": "呢個反諷幾靚 好似POPO屌人戴口罩咁"
-            },
-            {
-                "name": "郭嘉",
-                "text": "同學你思想很有問題！這樣內地同胞會看到香港的真相的！你是不是想顛覆國家政權？"
-            },
-            {
-                "name": "William Wong",
-                "text": "PO係wechat先有種喎 你講乜春 😂"
-            },
-            {
-                "name": "Wong Hang",
-                "text": "光復香港 時代革命￼"
-            },
-            {
-                "name": "Chicheng Chan",
-                "text": "你講乜春??\nBTW 我係本尊"
-            },
-            {
-                "name": "Terence Kuong",
-                "text": "啊叔我ig wechat facebook都po"
-            },
-            {
-                "name": "Si Seng Wai",
-                "text": "Po wechat有種？你講緊咩？反諷大陸冇言論自由？定你想逼人用大陸APP？我黃嘅我敢用真號，但眼見好多太空藍🤷🏻‍♂️"
-            },
-            {
-                "name": "Jimmy Lai",
-                "text": "Nmsl❤️"
-            }
-        ],
-        "post_like": "5",
-        "post_comments_number": 18
-    },
-    {
-        "post_author": "#NUMS86956",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "有嗰句講嗰句 言論自由同分裂國家係兩回事嚟",
-        "post_comments": [
-            {
-                "name": "Ken Chan",
-                "text": "咩呀 國家都無言論自由既 有仲唔係分裂緊？"
-            }
-        ],
-        "post_like": "2",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86955",
-        "post_time": "October 13 at 12:43 AM",
-        "post_content": "叫個被警察性侵既受害者提交更多既資料比警察 喱d真系得香港先唸得出 同叫個被家暴既人同父母講有咩分咩？",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86954",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "香港既局勢、未來會變成點。\n其實我都無話好大感覺，只係為佢地既局勢感到小小傷感而已。\n但憑咩唔比我地出聲，着件杉，貼張紙都唔比？\n老實講，有人搞着黑杉，連儂牆，我都唔會覺得有好多人着同有人會貼囉，澳門人咁着安於現狀，多一事不如小一事，澳門一定唔可以亂既澳門人，邊有咁得閒濕依d野。我都未必搞e d野，最多有咁岩有黑杉咪着下既程度。\n如果唔係好多保安集合係hi bye 橋，我都唔知人有發起着黑杉同連儂牆，我開頭仲以為要捉賊。...\n\nSee More",
-        "post_comments": null,
-        "post_like": "13",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86953",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "食橙",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86953",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "有無人仲有玩台版怪物彈珠阿，求邀入群！次次搵多人遊玩都無人",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86952",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "中意食蕉",
-        "post_comments": null,
-        "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86951",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "想知依家除左hibye橋，仲有邊度有保安",
-        "post_comments": [
-            {
-                "name": "Ken Chan",
-                "text": "男廁女廁"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86950",
-        "post_time": "October 13 at 12:42 AM",
-        "post_content": "原來7仔微波爐唔係壞，係澳大唔比用因為洗太多錢。神大學👍🏾",
-        "post_comments": [
-            {
-                "name": "Chon Wai Leong",
-                "text": "聽講下學期會有番"
-            },
-            {
-                "name": "Mystinke Leong",
-                "text": "Chon Wai Leong 澳大七仔買完再出澳大叮🤯"
-            },
-            {
-                "name": "Chon Wai Leong",
-                "text": "成包扔入熱水煲！"
-            },
-            {
-                "name": "Terence Lou",
-                "text": "買完去ok叮"
-            },
-            {
-                "name": "Mystinke Leong",
-                "text": "冰鮮沙茶牛肉飯"
-            },
-            {
-                "name": "Tina Ip",
-                "text": "Same with mtr"
-            }
-        ],
-        "post_like": "47",
-        "post_comments_number": 6
-    },
-    {
-        "post_author": "#NUMS86950",
-        "post_time": "October 13 at 12:40 AM",
-        "post_content": "同樣係大一新生，點解我d中學朋友/同學全部都有新朋友，而我就做乜都一個人？",
-        "post_comments": [
-            {
-                "name": "Clay Vong",
-                "text": "點解StarFish Lee永遠都有新女 而我就做乜都成班仔"
-            },
-            {
-                "name": "StarFish Lee",
-                "text": "show me where..."
-            },
-            {
-                "name": "古龍",
-                "text": "磁鐵唔好扮野Clay Vong"
-            },
-            {
-                "name": "KU Hong",
-                "text": "李偉傑 （Lee Wai Kit） 師兄到底點解我會係咁"
-            },
-            {
-                "name": "Lee Wai Kit",
-                "text": "Hin Son Ip（Hanson）點解我都係咁 師兄教教路"
-            },
-            {
-                "name": "吳年",
-                "text": "毒撚自己一個最開心..."
+                "name": "Chan Ka Hei",
+                "text": "Andy Man"
             },
             {
                 "name": "Andy Man",
-                "text": "最好你是自己一個😐"
+                "text": "add鬼add馬咩 不了"
+            },
+            {
+                "name": "Chi Long Chan",
+                "text": "Shaun Choi"
+            },
+            {
+                "name": "Siwai Chan",
+                "text": "Christy Chan"
+            },
+            {
+                "name": "Christy Chan",
+                "text": "Siwai Chan 學識熱乎既英文"
+            },
+            {
+                "name": "Siwai Chan",
+                "text": "Christy Chan 真係獲益良多"
+            },
+            {
+                "name": "Man Kun Ao Ieong",
+                "text": "Fung Sou你係咪攞D"
+            }
+        ],
+        "post_like": "16",
+        "post_comments_number": 15
+    },
+    {
+        "post_author": "#NUMS88738",
+        "post_time": "2019年12月30日 02:48",
+        "post_content": " 'BECO1001好唔好讀",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88737",
+        "post_time": "2019年12月30日 02:47",
+        "post_content": " 'Prof. Wang Hongyu有人識嗎？ 人好5好🧐.",
+        "post_comments": [
+            {
+                "name": "Houlam Lei",
+                "text": "好"
+            },
+            {
+                "name": "Charlie Y Cheong",
+                "text": "SOCY1000唔add就走寶"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88736",
+        "post_time": "2019年12月30日 02:47",
+        "post_content": " '條軌咁都收貨。我整啦不如。我澳大土木系，我有自信啊，叫埋我啲手足，都唔洗五十億",
+        "post_comments": [
+            {
+                "name": "烏汪標",
+                "text": "三百億真係用在起的可能沒三十億"
+            },
+            {
+                "name": "Chengkuong Lei",
+                "text": "我機電叫埋得唔得"
+            },
+            {
+                "name": "Patrick Wong",
+                "text": "李 恩宏"
+            },
+            {
+                "name": "烏汪標",
+                "text": "起嗰個可能係校友"
+            },
+            {
+                "name": "U Chan Wai",
+                "text": "張柏燊 （Anson Cheong）"
+            },
+            {
+                "name": "Summer Ieong",
+                "text": "Jacky Tan"
+            },
+            {
+                "name": "Loretta Tou",
+                "text": "Chi Iao Chao手足係時候要幫手"
+            },
+            {
+                "name": "Eggeggxd Wong",
+                "text": "Wai Chon Hao 手足"
+            },
+            {
+                "name": "Hao Wai Chon",
+                "text": "Eggeggxd Wong 40億就夠啦"
+            },
+            {
+                "name": "朱伟豪",
+                "text": "KaHei Wu一齊？"
+            },
+            {
+                "name": "KaHei Wu",
+                "text": "朱伟豪 係既老闆"
+            },
+            {
+                "name": "朱伟豪",
+                "text": "KaHei Wu 有工開即刻搵你"
+            },
+            {
+                "name": "Antonio Mak",
+                "text": "Au Ieong Eric Sam Chan 去馬"
+            },
+            {
+                "name": "Sam Chan",
+                "text": "Antonio Mak 你去啦"
+            },
+            {
+                "name": "Larry Un",
+                "text": "Antonio Mak 唔好爭 我去"
+            },
+            {
+                "name": "Lam Chak Hang",
+                "text": "Leo Kan 楊緒源 一齊"
+            },
+            {
+                "name": "Andersen Ku",
+                "text": "Tom Lei Man Seng Lok Him Chao Chris Cheong 龔昊 （Hou Kong）LaiMeng Kuok 自信！"
+            },
+            {
+                "name": "Lei Weng Lam",
+                "text": "Hoi Ian Chao😂"
+            },
+            {
+                "name": "Fong C. Iun",
+                "text": "Tom Lei?"
+            },
+            {
+                "name": "Gino Leong",
+                "text": "蔡景瑜 Fong Issac"
+            },
+            {
+                "name": "Fong Issac",
+                "text": "整得"
+            },
+            {
+                "name": "蔡景瑜",
+                "text": "Gino Leong 比我50億先"
+            },
+            {
+                "name": "烏汪標",
+                "text": "官員回佣咁勁，起到咁，已經好叻"
+            }
+        ],
+        "post_like": "122",
+        "post_comments_number": 23
+    },
+    {
+        "post_author": "#NUMS88735",
+        "post_time": "2019年12月30日 02:47",
+        "post_content": " '#NUMS88701 求詳情。在下面評論 我Pm你",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88734",
+        "post_time": "2019年12月30日 02:47",
+        "post_content": " '同黃絲奶港狗割蓆！有朋友係黃絲奶港狗，俾人一人一句奶港狗死全家踢佢出group 。身邊有親戚朋友係黃絲撐香港既，一律del晒佢地wechat踢晒佢地出group ，再同一大班朋友批鬥佢地。我要俾黃絲奶港狗知道澳門大多數係咩，我要黃絲係澳門冇定企！",
+        "post_comments": [
+            {
+                "name": "塵某",
+                "text": "好啊，支持。"
+            },
+            {
+                "name": "Hok Che",
+                "text": "朱古力又返嚟牛奶又唔爭氣，兩個都無定企"
+            },
+            {
+                "name": "West Allen",
+                "text": "沃門嘅和平就交哂樓豬啦👍"
+            },
+            {
+                "name": "Roy Lee",
+                "text": "嘩，文革復興哦"
+            },
+            {
+                "name": "于冬",
+                "text": "港人睇路"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "我唔貪心 上巴士有位坐就夠"
+            },
+            {
+                "name": "Leong ManIn",
+                "text": "黃絲用we7？其實都唔黃"
+            },
+            {
+                "name": "Sze Yuen Leung",
+                "text": "得一個人點批鬥佢地"
+            },
+            {
+                "name": "Ken Williams",
+                "text": "？？？"
+            },
+            {
+                "name": "Kain Leong",
+                "text": "澳門就係需要你呢種人材\n有冇考慮過畢業出黎考政府工？"
+            },
+            {
+                "name": "Chi Leong Ip",
+                "text": "怕.jpg"
+            },
+            {
+                "name": "Chi Iao Chao",
+                "text": "Loretta Tou係就快手啲啦🥱"
+            },
+            {
+                "name": "Loretta Tou",
+                "text": "Chi Iao Chao 係囉 都無效率嘅🥱"
+            },
+            {
+                "name": "姚蚊子的日記",
+                "text": "你搵到我邊個先講啦 PK"
+            },
+            {
+                "name": "Kelvin D Gaoson",
+                "text": "都半年啦,乜你啲黃絲朋友仲未unfriend晒你咩??咁佢哋其實都未必係黃得晒喎"
+            }
+        ],
+        "post_like": "24",
+        "post_comments_number": 15
+    },
+    {
+        "post_author": "#NUMS88733",
+        "post_time": "2019年12月30日 02:47",
+        "post_content": " '忽冷忽熱boy\n求解'",
+        "post_comments": [
+            {
+                "name": "烏汪標",
+                "text": "咁多條女"
+            }
+        ],
+        "post_like": "3",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88732",
+        "post_time": "2019年12月30日 02:46",
+        "post_content": " '我只想看著你　用任何距離\n非常安靜　飄過一片雲\n你的關心　變成灰色牆壁\n我沒能力　抵擋攻擊\n該如何告訴你　我的心情\n我還想陪著你　任何天氣\n我還盼望　可以傳達給你\n唱給你聽　在秋天裡\n那你聽見了嗎　我不安的心臟\n聽見了嗎　要送給你的話\n我所有能量　只能讓這首歌與你分享\n過了那麼久\n我還是學不會放棄\n過了那麼久\n我還是在想念你\n過了那麼久\n我還在努力表達自己的心意\n可惜你都不會聽見\n或許有一天\n你會聽得見\n或許有一天\n我能夠放棄喜歡你'",
+        "post_comments": null,
+        "post_like": "7",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88731",
+        "post_time": "2019年12月30日 02:46",
+        "post_content": " '多少感情輸咗比自尊. 有冇個你想番到過去挽留的人？ 如果有時光機 換我緊緊拖住你 好嗎？望你身邊那個她笑得那樣幸福. 我好想哥個係我 愛又好 痛又好 起碼你仲係我嘅. 我唔想你嘅以後與我再無關...",
+        "post_comments": null,
+        "post_like": "5",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88730",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '係呢個速食時代. 係咪個個都已經不再係慢慢磨合，維繫愛情. 係咪情願錯過都吾會盡力修補. 還有幾多車馬慢 情深長？一場沒有句號的愛情真係咁難咩..",
+        "post_comments": null,
+        "post_like": "31",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88729",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '犯罪就像重力，只需要輕輕一推",
+        "post_comments": null,
+        "post_like": "4",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88728",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '我「雙劍一出，無人不倒！」",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88727",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '讀死書咪你囉！學霸撚，以為自己好勁咁，我簡單問你：我要合法地開坦克需備有那些條件，你知咩？垃圾學霸，我學渣都識啊！",
+        "post_comments": [
+            {
+                "name": "姚蚊子的日記",
+                "text": "所以你開到坦克咩！港澳人士又冇辦法入解放軍"
+            },
+            {
+                "name": "Wai Hong Lei",
+                "text": "Andrew Hoi tank man出黎講兩句"
+            },
+            {
+                "name": "Andrew Hoi",
+                "text": "Wai Hong Lei 莫名奇妙"
+            },
+            {
+                "name": "Terence Lou",
+                "text": "我黎答你：\n去淘寶買個package，\n再買張機票去俄羅斯就有得揸\n\n其實學霸同IQ有一定程度既掛勾🤣🤣"
+            },
+            {
+                "name": "司徒歐陽",
+                "text": "知你叻💪"
+            },
+            {
+                "name": "烏汪標",
+                "text": "讀書衰的不一定係蠢人；讀書叻的蠢極有限"
+            }
+        ],
+        "post_like": "7",
+        "post_comments_number": 6
+    },
+    {
+        "post_author": "#NUMS88726",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '認真問去日本留學，啲學分點樣計？",
+        "post_comments": [
+            {
+                "name": "Ivan Cheong",
+                "text": "Thomas Wong星仔"
+            },
+            {
+                "name": "ChonKit Tai",
+                "text": "Sam Ma 馬～"
+            },
+            {
+                "name": "Sam Ma",
+                "text": "兵~"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88725",
+        "post_time": "2019年12月30日 02:45",
+        "post_content": " '有咩game鋪同玩具鋪係藍店？唔想幫襯 PS唔好爆黃店名，blacklist藍店就得",
+        "post_comments": [
+            {
+                "name": "Kain Leong",
+                "text": "玩呢d？\n我驚你戒埋打機"
+            }
+        ],
+        "post_like": "5",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88724",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '年總收入六十萬咩概念？夫妻無子女，五年一單位？",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88723",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '為甚麼澳門沒有乞丐？怎樣都到的？賭不死人嗎？大家都年總收入六十萬嗎？",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88722",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '鐘意左一個男仔 但唔知佢叫咩名又唔知佢讀邊 點算好😭😭",
+        "post_comments": [
+            {
+                "name": "Chon Hong Chao",
+                "text": "Edmond Wong FLL姓黃名叫老闆"
+            },
+            {
+                "name": "Edmond Wong",
+                "text": "Chon Hong Chao 掌聲歡迎澳大N8 Gym room posing king👏👏👏"
+            },
+            {
+                "name": "Jason Fong",
+                "text": "Chin Pok Kou 應該係你"
+            },
+            {
+                "name": "Chin Pok Kou",
+                "text": "Jason Fong 啱有科cm攞F多謝大家"
+            },
+            {
+                "name": "UnSin Wong",
+                "text": "Lei Kei 今次中意左邊個"
+            },
+            {
+                "name": "Lei Kei",
+                "text": "UnSin Wong Commu嘅Raymond🥰"
+            },
+            {
+                "name": "Jeffrey Un",
+                "text": "Hingi Cheong 不好說 :)"
+            },
+            {
+                "name": "Hingi Cheong",
+                "text": "Jeffrey Un 係咩？"
+            },
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee 我只可以幫到E道"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "Clay Vong 咪 再係咁全澳大都係佢嘅人"
+            },
+            {
+                "name": "StarFish Lee",
+                "text": "Clay Vong 咪啦"
+            },
+            {
+                "name": "李偉傑",
+                "text": "KU Hong你d 女女"
+            },
+            {
+                "name": "KU Hong",
+                "text": "Hin Son Ip"
+            },
+            {
+                "name": "Ricky Au",
+                "text": "Manuel Xeque你啲女fans"
+            },
+            {
+                "name": "Manuel Xeque",
+                "text": "唉 這些機會"
+            },
+            {
+                "name": "Adam Cheng Chan",
+                "text": "Hou Nam Choi"
+            },
+            {
+                "name": "Hou Nam Choi",
+                "text": "Adam Cheng Chan ？"
+            },
+            {
+                "name": "Adam Cheng Chan",
+                "text": "機會嚟了"
+            },
+            {
+                "name": "Henry Lou",
+                "text": "Io San Lei 澳大超模耀山學長"
+            },
+            {
+                "name": "Man Kun Ao Ieong",
+                "text": "Jason Wong可能係你"
+            },
+            {
+                "name": "Jason Wong",
+                "text": "Man Kun Ao Ieong 哦"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 21
+    },
+    {
+        "post_author": "#NUMS88721",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '各位對冰上運動有興趣既同學留意la，我地打算成立的冰上運動協會，期望聚集一群對溜冰及冰上曲棍球有興趣的同學，並將致力推廣其他冰上運動。https://docs.google.com/…/13xMPwMvwInAn264X6TQ4OiPEM2Y…/edit",
+        "post_comments": [
+            {
+                "name": "Nardo Lalala",
+                "text": "冰壺"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88720",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '其實無老師咪請囉，你叫個讀生物的人去教法律邏輯，我話知你係生物博士啦。戈個所謂老師只不過係辯論叻，咁又點？原來根本無讀過law，夠膽死當住同學面前講呢個係非常好的抗辯理由。咁樣啦，不如請所謂老師先解釋下，乜野係延訴抗辯，乜野係永久抗辯，法律依據係乜。你搵個讀醫的人教我law，咁不如我讀完law去做醫生。9唔搭8。",
+        "post_comments": [
+            {
+                "name": "Yuki Lai",
+                "text": "Chong Ice"
+            },
+            {
+                "name": "LiangLiang Si Leong U",
+                "text": "詳情"
+            },
+            {
+                "name": "Joan Sin",
+                "text": "Allison Lcc Exactly 你啲語氣"
+            },
+            {
+                "name": "Allison Lcc",
+                "text": "Joan Sin 唔好誣蔑我"
+            },
+            {
+                "name": "Joan Sin",
+                "text": "Allison Lcc 9唔搭8"
+            },
+            {
+                "name": "烏汪標",
+                "text": "LM"
+            }
+        ],
+        "post_like": "12",
+        "post_comments_number": 6
+    },
+    {
+        "post_author": "#NUMS88719",
+        "post_time": "2019年12月30日 02:44",
+        "post_content": " '好想瘋狂知道自己拎左幾多個A,出grade未",
+        "post_comments": [
+            {
+                "name": "Mystinke Leong",
+                "text": "John Iu 瘋狂開心仔😏"
+            },
+            {
+                "name": "John Iu",
+                "text": "Mystinke Leong 有A-即刻唔開心"
+            },
+            {
+                "name": "羅少澤",
+                "text": "Kyler Wu有c都偷笑"
+            },
+            {
+                "name": "Kyler Wu",
+                "text": "羅少澤 ffffffff"
+            },
+            {
+                "name": "Wanying Lo",
+                "text": "ChonIm Kuok"
+            },
+            {
+                "name": "ChonIm Kuok",
+                "text": "Wanying Lo 開心"
+            },
+            {
+                "name": "Jason Fong",
+                "text": "Terry Leung Box Chan攞左幾多個A?"
+            },
+            {
+                "name": "Box Chan",
+                "text": "Jason Fong 0"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "Box Chan A0"
+            }
+        ],
+        "post_like": "3",
+        "post_comments_number": 9
+    },
+    {
+        "post_author": "#NUMS88718",
+        "post_time": "2019年12月30日 02:43",
+        "post_content": " 'IPM secret 收左皮 哈哈",
+        "post_comments": null,
+        "post_like": "4",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88717",
+        "post_time": "2019年12月30日 02:43",
+        "post_content": " '每次見面都嘈交，我想放棄了但又唔知點開口好",
+        "post_comments": null,
+        "post_like": "5",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88716",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " '諗返轉頭 其實當初我揀呢個major讀 純粹因為覺得佢好好玩 啱啱升上大學戈時 其實 我都同好多新生嘅諗法一樣 對大學嘅生活感到好奇 但日子一日一日咁過 我越嚟越覺得 自己一直係到retake緊中學學過嘅嘢 一啲新意都無 通識唔想讀都要逼住讀 日子頹完又再頹 交白卷攞A Grade 唔明點解仲有人出貓 交晒學費無嘢學 每堂個半鐘 日日吹水當秘笈 你可能唔知 我曾經都係個好學嘅學生 但經過四年嘅洗禮 好多嘢都唔同晒 有好多想做嘅嘢都未做到 不過感恩有你叫返醒我 將我淨返嘅戈點火重燃 可能你會覺得 你無教我嘢我會怪你 但其實我唔會 以前無人教都係自己學嘅 請唔好覺得我自大 基本上只要我想 無嘢係我學唔識嘅 既然都醒咗 我都唔怕同你講 其實我真係好憎你 上個月屋企發生咗好大件事 隨時死得人 所以有段好長嘅時間我都無返 一返嚟半句關心都無 最關心嘅就係我幾時返得工 澳門最自豪嘅人情味去晒邊 一直尊敬你係個好老師 但希望你真係個值得尊重嘅老師",
+        "post_comments": [
+            {
+                "name": "Kain Leong",
+                "text": "有冇興趣讀下點寫文"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "Kain Leong 同佢上個標點堂先"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88715",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " '閉起雙眼你最掛念誰　眼晴張開身邊竟是誰\n感激車站裡　尚有月台能讓我們滿足到落淚'",
+        "post_comments": [
+            {
+                "name": "Mystinke Leong",
+                "text": "擁不擁有也會記住誰"
+            },
+            {
+                "name": "Gustav Elijah Åhr",
+                "text": "Elmo Thoma"
+            },
+            {
+                "name": "Chon Fat Lao",
+                "text": "Ho Salad"
+            },
+            {
+                "name": "Albert Lam",
+                "text": "EDdy IP 你？"
+            },
+            {
+                "name": "EDdy IP",
+                "text": "Albert Lam 誰勉強娛樂過誰"
+            },
+            {
+                "name": "EDdy IP",
+                "text": "Albert Lam 我沒有我沒有"
+            },
+            {
+                "name": "Albert Lam",
+                "text": "EDdy IP 但試過散心旅遊，如何答沒有？"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "愛若難以放進手裡\n何不將這雙手放進心裡\n\n攬攬"
+            }
+        ],
+        "post_like": "11",
+        "post_comments_number": 8
+    },
+    {
+        "post_author": "#NUMS88714",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " ''你醒味？我醒緊啦。\n'",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88713",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " '有冇師兄師姐轉過系？我轉完之前讀多左嘅CM科會唔會計番入FE到🤨",
+        "post_comments": [
+            {
+                "name": "陳家珩",
+                "text": "轉左都係FBA 內既系的話 係5計既\nFE 只計Non FBA 既堂"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88712",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " 'Rejected: Section is full\n點解我會有 覺得ADD/DROP系統有用 呢個錯覺'",
+        "post_comments": [
+            {
+                "name": "姚蚊子的日記",
+                "text": "堅持用add drop 你永遠take唔到水科 never"
+            }
+        ],
+        "post_like": "46",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88711",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " '渣男同小三都不得好死！",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88710",
+        "post_time": "2019年12月30日 02:42",
+        "post_content": " '香港人又話抵制澳門，又話去澳門送中不了，澳門=大陸不去也擺，點知日日都一船船一車車死過黎 認真犯賤",
+        "post_comments": [
+            {
+                "name": "塵某",
+                "text": "不如取消在澳門嘅香港公司\n睇下到時邊個死先？"
+            },
+            {
+                "name": "John Shao",
+                "text": "😂边度來的自信"
+            },
+            {
+                "name": "Wong Yik",
+                "text": "誰不知現在又有多少澳門居民排著隊過關上船上車來呢？"
+            },
+            {
+                "name": "Chi Leong Ip",
+                "text": "Replace香港with支那 澳門with日本"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 4
+    },
+    {
+        "post_author": "#NUMS88709",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '發起澳大杯葛香港人行動！ 拒絕同香港人做朋友，唔會同佢地講任何野有任何交流，唔會take 香港教授既course 唔會同香港人做室友。 杯葛香港人從生活做起 ，建立澳門人生活圈！",
+        "post_comments": [
+            {
+                "name": "Nardo Lalala",
+                "text": "唔好用港紙\n唔好睇香港電視台\n唔好聽香港歌\n澳門自救 由您做起"
+            },
+            {
+                "name": "Mandy Ho",
+                "text": "分裂國家罪 👋"
+            },
+            {
+                "name": "Kenny Chan",
+                "text": "#唔好搞亂澳門"
+            },
+            {
+                "name": "HouIoi Vong",
+                "text": "Henry Michacl 好撚叻"
+            },
+            {
+                "name": "Kain Leong",
+                "text": "你係米add唔到佢地d堂想人地drop出黎比你？"
+            },
+            {
+                "name": "Roy Lee",
+                "text": "Kain Leong drop咗香港同學佢都應該add唔入"
+            },
+            {
+                "name": "于冬",
+                "text": "好野"
             }
         ],
         "post_like": "26",
         "post_comments_number": 7
     },
     {
-        "post_author": "#NUMS86949",
-        "post_time": "October 13 at 12:40 AM",
-        "post_content": "喂 Admin #NUMS86896 個post唔見左呀\n係你河蟹左定被人檢舉所以被del左post呀\n好出嚟解釋下啦喂\n刪一貼百 遍地開花\n光復香港 時代革命...\nSee More",
-        "post_comments": null,
-        "post_like": "6",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86948",
-        "post_time": "October 13 at 12:39 AM",
-        "post_content": "其實支持藍定黃沒有問題，我都希望你們有全面觀點去思考而唔係被當作政治工具利用。希望你地可以做到思考對方立場以及理性提出論點，特別是平民藍絲方，這點你們很多比起黃絲方大部分時是做不到的，你們的不解、冷眼及鄙視亦是加深雙方之間予盾。另外，盲目支持並不是一件好事，回想你們支持的原因，並不是由憤怒去鞏固你們的信念。",
+        "post_author": "#NUMS88708",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '我屋企人好中意攞一件事同我講笑\n而佢地講嘅時候我都冇糾正過叫佢地吾好咁講\n但佢地只會笑，然後繼續講\n嗰件事可能對其他人冇咩野，但對我黎講吾係\n又吾係咁想因爲咁小事而黑佢地面，但心入面每次聽到都有d吾舒服，可以點做？'",
         "post_comments": [
             {
-                "name": "Kain Leong",
-                "text": "你用詞咁難佢地睇唔明架"
+                "name": "Sam Chao",
+                "text": "唔講邊個知🤷🏻‍♂️"
+            },
+            {
+                "name": "Chon Fat Lao",
+                "text": "離家出走"
             }
         ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86947",
-        "post_time": "October 13 at 12:39 AM",
-        "post_content": "想問下對城管暴力執法點睇, 小販犯法, 佢地就可以亂打人?香港依家類似情況喎",
-        "post_comments": null,
-        "post_like": "1",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86946",
-        "post_time": "October 13 at 12:39 AM",
-        "post_content": "人生三分一時間？這也是你對我最後耍的心機。所有都是你的憶測，從來我們也沒有真正對話過，請你不要永遠站在受害者立場。",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86945",
-        "post_time": "October 13 at 12:39 AM",
-        "post_content": "https://m.youtube.com/watch?v=b7NZfkqFc6k",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86944",
-        "post_time": "October 13 at 12:38 AM",
-        "post_content": "送给偶尔会浏览这个平台的内地学生：审视或批判你的祖国从来不是可憎的事，同样的，爱和赞美祖国也不是件羞耻的事。异地他乡，求学路途，多有不易，祝身体健康，学有所成，更进一步。",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86943",
-        "post_time": "October 13 at 12:38 AM",
-        "post_content": "其實學生會唔搞民主牆連儂牆，咁學會搞咪得，大家覺得諗唔諗得過？",
-        "post_comments": null,
         "post_like": "2",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86942",
-        "post_time": "October 13 at 12:37 AM",
-        "post_content": "我覺得大家可以善用Airdrop。",
-        "post_comments": null,
-        "post_like": "7",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86941",
-        "post_time": "October 13 at 12:37 AM",
-        "post_content": "乜真係會有人認為大學生就有腦，有獨立思考能力？睇啲人出po咩質素都知啦！澳大有一半都係00後黎嫁",
-        "post_comments": [
-            {
-                "name": "Kain Leong",
-                "text": "首先00後唔代表無腦\n其次出POST都唔代表到D咩\n再者90後80後都好多無腦…See More"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86940",
-        "post_time": "October 13 at 12:36 AM",
-        "post_content": "來自大陸，我覺得香港人追求自由冇問題，和平冇結果訴諸暴力可以話係冇得揀，但既然選擇極端就要承受自己選擇嘅結果。就好似NBA果件事，我都覺得Silver其實冇錯，Daryl有表達觀點的自由，但Daryl要對自己的言論負責。而且最近70週年，國內愛過情緒過於高漲，非常不理智，有d民粹。但香港情緒都係過激，逢中必反。之前，一日到黑話人地文革點點，宜家但凡同中共有一dd聯繫就打砸燒，po曬警察personal info連坐全家？？紅衛兵？批鬥？in all，我覺得兩個意識形態的碰撞從貿易戰到香港，我們應該都在見證時代。我唔係話幾愛黨，我只係愛國。如果今次中共頂唔住霖左，國民都會好慘。Everyone has the right to live. Respect different ideology. 希望多d交流，少d仇恨。",
-        "post_comments": null,
-        "post_like": "6",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86939",
-        "post_time": "October 13 at 12:36 AM",
-        "post_content": "南無阿彌陀佛 Namoamituofo",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86938",
-        "post_time": "October 13 at 12:36 AM",
-        "post_content": "暴政並不可怕，可怕的是對暴政的屈服、沉默或讚美",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86937",
-        "post_time": "October 13 at 12:36 AM",
-        "post_content": "各位貴為大學生，言行舉止可否唔好好似潑婦罵街咁，人地做錯，唔代表你可以口不擇言咁去鬧佢，呢個就係你地所謂香港人（地區寫香港）既品格？唔好影衰晒其他香港人，暴徒性格\n#致某位在wechat group口不擇言的「文化人」'",
-        "post_comments": [
-            {
-                "name": "Chi Leong Ip",
-                "text": "件事是非黑白唔重要，講粗口就係唔啱"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "強力譴責大學生講粗口 要求校方加強對學生的愛國教育"
-            },
-            {
-                "name": "Chi Leong Ip",
-                "text": "Kain Leong 試著講sb chao ne ma等優雅詞彙"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "Chi Leong Ip 要求校方以SB等詞彙代替DLLM"
-            },
-            {
-                "name": "Jimmy Lai",
-                "text": "Kain Leong 你咁out架 衣家慶NMSL❤️"
-            },
-            {
-                "name": "Kain Leong",
-                "text": "黎晉庭 對唔住 我未受過教育 :("
-            },
-            {
-                "name": "HengChon Leong",
-                "text": "聽到粗口直情想打冷震添呀!"
-            },
-            {
-                "name": "Lam Cheng Fong",
-                "text": "人哋係咪做錯我唔理佢，總之你講粗口就係你唔啱，你係大學生嚟，唔可以做講粗口嘅暴徒。"
-            },
-            {
-                "name": "Chi Leong Ip",
-                "text": "Lam Cheng Fong 唔講粗口101幾時mid term?"
-            },
-            {
-                "name": "周邦彥",
-                "text": "咁如果我係講緊：「屌，我好鍾意共產黨，如果唔係共產黨早就冚家剷啦，最緊要就聽撚晒阿爺話！睇吓澳門，聽聽話話咪有錢派囉～啲傻鳩仲諗住反中央。話知比阿爺屌啦，同佢含柒我都制呀！屌你老母，成班暴徒搞亂晒個社會，遲啲回歸呀咪又係大陸嘅～我就話呢...澳門同香港唔好叫特別行政區改叫省啦！我愛中央！我愛中華人民共和國！我愛共產黨！」\n\n呢啲粗口會唔會好聽d?"
-            }
-        ],
-        "post_like": "7",
-        "post_comments_number": 10
-    },
-    {
-        "post_author": "#NUMS86936",
-        "post_time": "October 13 at 12:36 AM",
-        "post_content": "溫馨提示一句 如果香港真如你地所願事件升級到影響國家主權問題，咁多位既留言及分享可能就涉及煽動罪名；退一萬步講，一百年前中國勢弱，世界各國豪強何曾放我中國，中華民族於眼內？意見唔同，可否和平d解決，大家每個人腦海之中，都已經係先入為主，你地就冇發現點解網上流傳得多既都係以支持香港既為主？只有詭辯先需求法不責眾，真理永遠存在某一個人既心中，正如中華民族公認為炎黃子孫一樣，都係唔需要加以言論，鬥爭既，大學生係應該有自己獨立既思想，但唔係盲目地跟人地既思想，試下跳出框框，以第三方，諗遠d若如你所願，果真是好？大國博弈，眾生安願為棋？",
-        "post_comments": [
-            {
-                "name": "郭嘉",
-                "text": "//可否和平解決問題？//\n林鄭：不可"
-            },
-            {
-                "name": "Chi Leong Ip",
-                "text": "炎黃子孫都係梁啓超鳩作出黎 睇到呢個term已經同獨立思考有段距離"
-            }
-        ],
-        "post_like": "0",
         "post_comments_number": 2
     },
     {
-        "post_author": "#NUMS86935",
-        "post_time": "October 13 at 12:35 AM",
-        "post_content": "麻煩啲藍絲睇清楚 自從反送中開始 有幾多人失蹤 被跳樓 浸死 你冧清楚正唔正常 愛國唔代表要盲目支持 你真係愛國既麻煩你一齊為公義發聲",
-        "post_comments": null,
-        "post_like": "6",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86934",
-        "post_time": "October 13 at 12:35 AM",
-        "post_content": "支持HK popo執法,拉晒啲冇編號的暴徒",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86933",
-        "post_time": "October 13 at 12:35 AM",
-        "post_content": "地鐵站封晒都可以有暴徒,原來香港啲勇武全部都係popo",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86932",
-        "post_time": "October 13 at 12:35 AM",
-        "post_content": "大陸人選擇題：国旗和母亲一齐掉下海，你会先救谁？",
+        "post_author": "#NUMS88707",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '27 or 28 一定出grade, 信我。",
         "post_comments": [
             {
-                "name": "New UM Secrets - Backup",
-                "text": "救習先"
+                "name": "Peng Kuok",
+                "text": "30出，信我"
             },
             {
-                "name": "Lok Kakin",
-                "text": "New UM Secrets - Backup 甘習同RMB100呢？"
+                "name": "Kong CY",
+                "text": "Peng Kuok 你岩"
+            }
+        ],
+        "post_like": "7",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88706",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '屌你老母，澳大啲科難add到以為自己係試讀生",
+        "post_comments": [
+            {
+                "name": "Joanna Lai",
+                "text": "Chi Iao Chao你講你有幾多個ok！"
             },
             {
-                "name": "姚蚊子的日記",
-                "text": "天大地大不如党的恩情大\n爹亲娘亲不如毛主席亲"
+                "name": "Chi Iao Chao",
+                "text": "Joanna Lai error404"
             },
             {
-                "name": "JOJOK",
-                "text": "黨》家。 讀下書啦仲話中國大學"
+                "name": "Kuan Hou Lai",
+                "text": "Io Hin Lai Kuok Hou Cheong唔洗以為..."
             },
             {
-                "name": "Siddy Huang",
-                "text": "唉，睇來要教識得母親游水了"
+                "name": "Clay Vong",
+                "text": "Andy Wong 屌我比澳大drop左我啦"
             },
             {
-                "name": "Si Seng Wai",
-                "text": "唔救國旗死全家喎，母親vs全家，一定係救國旗啦"
+                "name": "Andy Wong",
+                "text": "Clay Vong 大八唔好？"
+            },
+            {
+                "name": "Hakuno Kazuki",
+                "text": "Alan Wong唔好咁開心啦"
+            },
+            {
+                "name": "Alan Wong",
+                "text": "Hakuno Kazuki DLLMUM"
+            }
+        ],
+        "post_like": "71",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88705",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '澳猪不愧為澳猪 有得食有住有人情味就好開心 啊 唔好意思 差唔多住都冇得你住 系都比曬d大6人住\n邊輪到澳門二等公民'",
+        "post_comments": null,
+        "post_like": "8",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88704",
+        "post_time": "2019年12月30日 02:41",
+        "post_content": " '我發覺原來一直都係自己自作多情，其實人地根本冇俾過希望自己，或者係時候認清個事實，唔好再沉淪係幻想入面",
+        "post_comments": [
+            {
+                "name": "Nardo Lalala",
+                "text": "不要自作多情去做夢"
+            },
+            {
+                "name": "Chris Chau",
+                "text": "StarFish Lee做咩唔比希望人啦￼"
+            }
+        ],
+        "post_like": "3",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88703",
+        "post_time": "2019年12月30日 02:40",
+        "post_content": " '隨時隨地都可以抽走既繁榮穩定 只不過系海市蜃樓 一切都可能系幻象 人情味可以容忍幾百億既浪費 容忍無能既官員 經常性既交通問題 貧富懸殊嚴重\n文化日漸被取代 外勞進駐 樓價物價不斷上升 失去集會遊行申訴既權力 以為自己生活好繁榮穩定 由不斷失去既權利和利益去維護 喱啲就系所為既繁榮？'",
+        "post_comments": [
+            {
+                "name": "Wong Yik",
+                "text": "唔好搞亂澳門！"
+            },
+            {
+                "name": "John Shao",
+                "text": "講咁多野做咩，乖乖地畢業出來打工賺錢供樓接市啦，唔好咁多聲氣，否則好似香港咁，送你中。（曲"
+            },
+            {
+                "name": "黃文杰",
+                "text": "博你唔到"
+            }
+        ],
+        "post_like": "11",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88702",
+        "post_time": "2019年12月26日 10:03",
+        "post_content": " 'https://www.facebook.com/…/a.35990360412…/2641146922668820/…",
+        "post_comments": [
+            {
+                "name": "Nima Ge Bi",
+                "text": "议员一个月人工津贴咩咩咩＋＋埋十九几万，捐啦"
+            },
+            {
+                "name": "烏汪標",
+                "text": "來澳乞食"
             }
         ],
         "post_like": "8",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88701",
+        "post_time": "2019年12月26日 10:03",
+        "post_content": " '其他证人补充：害人离职的老师在公共平台表现一哭二离职三上吊后，装作无辜，在张氏书院继续工作。",
+        "post_comments": [
+            {
+                "name": "烏汪標",
+                "text": "求詳情"
+            },
+            {
+                "name": "Nima Ge Bi",
+                "text": "东家唔打，打西家。使唔使一哭二闹三上吊啊？"
+            },
+            {
+                "name": "Ban Ban",
+                "text": "我都被charlie jun 和江紹發害 一哭二离职三上吊"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88700",
+        "post_time": "2019年12月26日 10:03",
+        "post_content": " '不管是真心讚美或是一再以溢美之辭抬舉澳門這個有別於香港的特區；總之習主席訪澳的那些話透露出他心目中理想的一國兩制理當如澳門般的臣服，那潛台詞是譴責香港這特區一直以來尤其二○一九這大半年所表現的種種叛逆不馴，已令北大人傷透腦筋，狼狽不堪。\n晚了兩年才回歸的澳門，在北大人眼中突飛猛進，於是才有這超標好評，尤其在教育方面，十來歲的孩子居然會說出和習爺爺握手，溫暖立刻傳遍全身，另一位女學生更說習爺爺向我們揮手，令她開心激動到一世都無憾了……。類似肉麻話比某些文人的歌功頌德更不堪，尤其出自天真孩兒之口，更叫人覺得這種擦鞋式的教育，正是目前及未來問題所在。\n兩個城市的比較，無疑香港年輕一代的獨立思考能力與捨命追求自由的勇氣，澳門拍馬也追不上，怎能不為香港年輕人驕傲？突兀的說話、卑躬屈膝的朝聖姿態在眾目睽睽之下上演，這次如此清晰的領教了；港澳之別高下立分；從政府官員到民間不畏被譏的醜陋式跪低，蔚為奇觀，舉世矚目。\n早期的澳門，在小說家筆下是黃賭黑充斥藏污納垢的賭國仇城，現在進步到與中國其他城市已無任何區別，也難怪習主席一再落力讚美；這是講給香港聽的，言辭間親澳疏港以示懲罰；香港人會因此而吃味才怪！一個自由開放碼頭式先進的城市，會因此而大開倒車嗎？單看澳門在北大人來訪前後如臨大敵隨時無理由的禁止某些人出入，而停留期間政府上上下下發動到連小學雞也學會說的那些肉麻話，這一切佈局令人不禁打冷顫。 '",
+        "post_comments": [
+            {
+                "name": "Nardo Lalala",
+                "text": "好文采"
+            },
+            {
+                "name": "Lucas Lo",
+                "text": "不知所謂"
+            }
+        ],
+        "post_like": "32",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88699",
+        "post_time": "2019年12月26日 10:03",
+        "post_content": " '出grade未啊?",
+        "post_comments": null,
+        "post_like": "15",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88698",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " '好想知你男朋友係邊個",
+        "post_comments": [
+            {
+                "name": "Lacus Ng",
+                "text": "Sukie Lao好想知arrrrrrr🤣🤣🤣🤣"
+            },
+            {
+                "name": "Lei Kei",
+                "text": "UnSin Wong肯話我知未"
+            },
+            {
+                "name": "Clay Vong",
+                "text": "係 StarFish Lee"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88697",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " '澳大有三種人 一種係按study plan選課的正常人 第二種係take滿左ge fe 但係cm接近未take過的半廢人 第三種係從來唔選課轉課 咩都唔知但係又想畢業的全廢人",
+        "post_comments": [
+            {
+                "name": "姚蚊子的日記",
+                "text": "第三個如果黎讀FST 100%會延畢"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "姚蚊子的日記 喂你唔記得轉acc呀😂"
+            },
+            {
+                "name": "姚蚊子的日記",
+                "text": "Sam Chao 唔想轉 我十分怕醜😇😇"
+            },
+            {
+                "name": "Mou Kuan Chon",
+                "text": "姚蚊子的日記"
+            },
+            {
+                "name": "姚蚊子的日記",
+                "text": "睇到Like下喇喂(´･ω･`)"
+            },
+            {
+                "name": "Cheong ManHin",
+                "text": "U Fai Liu Jack Liang 你哋係咪選到都一定會完延畢"
+            },
+            {
+                "name": "U Fai Liu",
+                "text": "Cheong ManHin exchange得9個學分可以點 冇得唔延😢"
+            },
+            {
+                "name": "Cheong ManHin",
+                "text": "U Fai Liu 申請破21🥰"
+            },
+            {
+                "name": "Jack Liang",
+                "text": "Cheong ManHin exchange得6個學分可以點"
+            },
+            {
+                "name": "Cheong ManHin",
+                "text": "Jack Liang 屌你地係度鬥少？😂"
+            },
+            {
+                "name": "HouLeong Wong",
+                "text": "HI NG 第四種"
+            },
+            {
+                "name": "HI NG",
+                "text": "畢唔到業"
+            },
+            {
+                "name": "Siko Lei Lei",
+                "text": "Leong Ka Chon"
+            },
+            {
+                "name": "Vladimir Ng",
+                "text": "FLL啲人表示：所以關我咩事😂"
+            },
+            {
+                "name": "UT Lai Cheong",
+                "text": "😓全廢人"
+            },
+            {
+                "name": "Pui Ian",
+                "text": "Nga Man Chan全廢人"
+            },
+            {
+                "name": "Nga Man Chan",
+                "text": "Pui Ian 你戈timetable次次都咁好 洗咩轉"
+            }
+        ],
+        "post_like": "34",
+        "post_comments_number": 17
+    },
+    {
+        "post_author": "#NUMS88696",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " '唔出grade係驚大家睇完聖誕節跳樓？完左啦可以出啦而家！唔出點retake啊？",
+        "post_comments": [
+            {
+                "name": "姚蚊子的日記",
+                "text": "你通常retake都唔會上個sem fail 下個sem 再 take"
+            },
+            {
+                "name": "Wallace Lam",
+                "text": "我覺得係佢地放假"
+            },
+            {
+                "name": "羅少澤",
+                "text": "Kyler Wu 唔出點retake"
+            },
+            {
+                "name": "Kyler Wu",
+                "text": "羅少澤 岩啊出左都要跳樓"
+            }
+        ],
+        "post_like": "57",
+        "post_comments_number": 4
+    },
+    {
+        "post_author": "#NUMS88695",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " '有無人有law degree 又想揾野做??? 可以比個like我再add你!!!",
+        "post_comments": [
+            {
+                "name": "Kiris Kong",
+                "text": "EDWIN LEI"
+            },
+            {
+                "name": "Kathleenwengsi Ng",
+                "text": "Ian Ian Chong"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88694",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " 'PEREIRA LAURINDA EELC1003 好吾好",
+        "post_comments": [
+            {
+                "name": "Carol Wong",
+                "text": "我戈班比分比得比較低😕"
+            },
+            {
+                "name": "Lai Sang Sio",
+                "text": "好！"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88693",
+        "post_time": "2019年12月26日 10:02",
+        "post_content": " '做警察真係會變壞，我個朋友岩ba 畢業入左營出黎差唔多一年，同佢食野次次係到同佢朋友講350，起初我都唔知350係咩，問佢入面做d朋友原來350係叫雞野黎⋯好仔真係唔好當差",
+        "post_comments": [
+            {
+                "name": "Lap Siu",
+                "text": "Ka Lok Fong"
+            },
+            {
+                "name": "Ka Lok Fong",
+                "text": "Chin Chon Lao"
+            },
+            {
+                "name": "Chin Chon Lao",
+                "text": "Rain Lao"
+            },
+            {
+                "name": "Rain Lao",
+                "text": "Sonam Lulu Lama"
+            },
+            {
+                "name": "Vong Manhou",
+                "text": "Ho Man Kit"
+            },
+            {
+                "name": "Ho Man Kit",
+                "text": "Vong Manhou 王梓淳話升價到400了"
+            },
+            {
+                "name": "Vong Manhou",
+                "text": "Ho Man Kit 我啲朋友從來都唔會令我失望！"
+            },
+            {
+                "name": "Ederson Chan",
+                "text": "Vong Manhou 放底家用#%0"
+            },
+            {
+                "name": "Vong Manhou",
+                "text": "Ederson Chan 學費都就黎無錢交咯"
+            },
+            {
+                "name": "Ederson Chan",
+                "text": "Vong Manhou 交家用仲好"
+            },
+            {
+                "name": "Ho ChiWeng",
+                "text": "Chon Long Lui"
+            },
+            {
+                "name": "TongIeong Ng",
+                "text": "Chong ManloPang Cheong"
+            }
+        ],
+        "post_like": "25",
+        "post_comments_number": 12
+    },
+    {
+        "post_author": "#NUMS88692",
+        "post_time": "2019年12月26日 10:01",
+        "post_content": " '各位渣開老電既師兄師姐，想問下你地通常渣幾耐換一次機油同埋去邊到換比較好？",
+        "post_comments": [
+            {
+                "name": "Kun Hou Lam",
+                "text": "1萬公里換一次偈油😂"
+            },
+            {
+                "name": "Ka Lok Fong",
+                "text": "Lap Siu"
+            },
+            {
+                "name": "Bing Lch",
+                "text": "Eddie Chong教下學弟妹"
+            },
+            {
+                "name": "Eddie Chong",
+                "text": "窮人換法一萬換一次花生油"
+            },
+            {
+                "name": "Bing Lch",
+                "text": "Eddie Chong 你富人所以300換一次300v?"
+            },
+            {
+                "name": "Eddie Chong",
+                "text": "我難民兩萬換一次地溝油"
+            }
+        ],
+        "post_like": "2",
         "post_comments_number": 6
     },
     {
-        "post_author": "#NUMS86931",
-        "post_time": "October 13 at 12:35 AM",
-        "post_content": "派咁多保安守HI-BYE橋,\n我同你講\n你咁樣做我地係唔會驚㗎!!'",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86930",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "我覺得如果今次搞唔成的話澳門大學一定会比其他人笑 所以無論點樣都好 即使捂貼memo紙或者唱歌 至少大家都系星期一11點25分嘅系e6着黑衫企系度默站\n當然最好就係大家都出一分力貼memo紙同唱歌\nhttps://www.facebook.com/36710179065…/posts/421659735202692/'",
-        "post_comments": [
-            {
-                "name": "Cheang Hoi",
-                "text": "司法警察局將於下週一(十月十四日) 3:30p.m.---6:00p.m. 期間在E6 共享學習空間設置攤位宣傳電話詐騙防騙資訊"
-            }
-        ],
-        "post_like": "0",
-        "post_comments_number": 1
-    },
-    {
-        "post_author": "#NUMS86929",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "支持\nhttps://www.facebook.com/36710179065…/posts/421659735202692/'",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86928",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "小三隻腳都幾短下 個樣就... 個條渣男轉左口味？",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86927",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "High table 對住個小三食 一邊食一邊諗花生😂😂",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86926",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "明知secret有老虎，你仲要公開話自己要係邊一個位置、幾點想做武松，除左係蠢、我只有另一個想法",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86925",
-        "post_time": "October 13 at 12:34 AM",
-        "post_content": "#NUMS86896 最後打左最后，大家小心係局",
-        "post_comments": null,
-        "post_like": "0",
-        "post_comments_number": 0
-    },
-    {
-        "post_author": "#NUMS86924",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "下年保送生可以揀書院？🤬",
+        "post_author": "#NUMS88691",
+        "post_time": "2019年12月26日 10:01",
+        "post_content": " '几時出grade",
         "post_comments": null,
         "post_like": "1",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86923",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "#NUMS86896 有兩隻字係簡體，我作保留態度",
+        "post_author": "#NUMS88690",
+        "post_time": "2019年12月26日 10:01",
+        "post_content": " 'https://m.facebook.com/story.php…",
         "post_comments": null,
-        "post_like": "0",
+        "post_like": "1",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86922",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "唔知今年班候選學生會係咪好似今年既垃圾學生會咁「中立」呢😏",
+        "post_author": "#NUMS88689",
+        "post_time": "2019年12月26日 10:01",
+        "post_content": " 'https://cn.nytimes.com/…/macau-china-hong-kong-pro…/zh-hant/\n反正沃豬人生剩番食玩訓 佢地唔需要更高的境界'",
+        "post_comments": null,
+        "post_like": "9",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88688",
+        "post_time": "2019年12月26日 10:01",
+        "post_content": " '聖誕節在以往是人們慶祝耶穌降生的這個日子\n但是今年卻有點不同\n同樣的24小時的時間, 有人熱烈慶祝, 有人持續戰鬥\n幸福的定義是每個人都不同的東西嗎\n所以自由地選擇屬於自己渡過聖誕的方式吧\n''若者無懼困境''是一首普通至極的勵志歌\n但是 愈被認為是''普通''的東西 就愈難做\n這首歌曲的''若者''是日文漢字傳達過來\n是年青人的意思 年青人若是在追夢過程中碰到挫折\n困惑、跌倒、受傷的話\n這希望是一首安撫及鼓勵繼續向更遠的道路前進的歌\n希望年青人不要害怕眼前的困難\n努力開拓出屬於自己的道路\n如果大家喜歡這首歌 請按喜歡, 分享\n如果大家希望聽見更多震奮人心的聲音\n請大家訂閱我的頻道 我是許皓雄\n在不久的將來會有更多活動 請務必留意!\nhttps://youtu.be/01PvJqRfqOc'",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88687",
+        "post_time": "2019年12月26日 10:00",
+        "post_content": " '人最緊要是有個安定嘅環境,可以安居樂業,和諧共處,開心簡單地过生活,已經好幸福了。希望香港人能够睇明白呢個人生道理。",
+        "post_comments": [
+            {
+                "name": "Lok Kakin",
+                "text": "最緊要同內地人死爭死搶到經屋！和諧相處，比多d人情味！\n沃門人一早明白呢個道理"
+            },
+            {
+                "name": "司徒歐陽",
+                "text": "Lok Kakin 生活艱難？冇得住？🤓"
+            },
+            {
+                "name": "Lok Kakin",
+                "text": "司徒歐陽 無！ 要唔要一齊申請？！"
+            },
+            {
+                "name": "HengChon Leong",
+                "text": "你講漏左人情味啊！"
+            },
+            {
+                "name": "Chi Leong Ip",
+                "text": "冇人情味連豬都不是！！！"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "最緊要繁榮穩定❤️"
+            },
+            {
+                "name": "Adam Cheng Chan",
+                "text": "Sam Chao 啱呀"
+            },
+            {
+                "name": "Lucas Lo",
+                "text": "香港人紅衛兵上身，同佢地講係對牛彈琴"
+            },
+            {
+                "name": "Dilxahk Khalid",
+                "text": "依個\"过\" 字係本文精髓,可惜小左句人情味."
+            }
+        ],
+        "post_like": "18",
+        "post_comments_number": 9
+    },
+    {
+        "post_author": "#NUMS88686",
+        "post_time": "2019年12月26日 10:00",
+        "post_content": " 'https://fbwat.ch/127FnbtGEEBB57sX",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88685",
+        "post_time": "2019年12月26日 10:00",
+        "post_content": " '璇b唔好嬲啦,對唔住囉...",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88684",
+        "post_time": "2019年12月26日 10:00",
+        "post_content": " '如果我話，我想等你呢？",
+        "post_comments": [
+            {
+                "name": "Kain Leong",
+                "text": "咁就唔好用secret 講啦"
+            },
+            {
+                "name": "Albert Lam",
+                "text": "EDdy IP"
+            }
+        ],
+        "post_like": "31",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88682",
+        "post_time": "2019年12月26日 09:59",
+        "post_content": " '😍 can anyone help tag the handsome guy?\nhttps://e-myum.co.um.edu.mo/umreporters_dec2019/?lang=en '",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88681",
+        "post_time": "2019年12月26日 09:59",
+        "post_content": " '又到性誕，陣陣性愛之聲。。。\n一切都與我無關。。。\n真羡慕。。。'",
+        "post_comments": [
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee唔叫"
+            }
+        ],
+        "post_like": "9",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88680",
+        "post_time": "2019年12月26日 09:59",
+        "post_content": " '忽略你係因為你雞格太難頂",
         "post_comments": null,
         "post_like": "4",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86921",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "啊Chi有無女朋友",
-        "post_comments": [
-            {
-                "name": "Ben Wong",
-                "text": "Nga Tang 啊chi🤨"
-            },
-            {
-                "name": "Nga Tang",
-                "text": "Ben Wong 關我咩事😂"
-            },
-            {
-                "name": "Ben Wong",
-                "text": "Nga Tang 你之前話你食女ma🤔"
-            }
-        ],
-        "post_like": "3",
-        "post_comments_number": 3
+        "post_author": "#NUMS88679",
+        "post_time": "2019年12月26日 09:58",
+        "post_content": " '對唔住，因為我無錢，令到你變得咁膚淺，令到你只值三萬蚊",
+        "post_comments": null,
+        "post_like": "7",
+        "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86920",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "去完PSP Welcome之後覺得你地真係好有愛，學長學姐都好落心機，好想快啲同你地做愛 的鼓勵！！",
+        "post_author": "#NUMS88678",
+        "post_time": "2019年12月26日 09:58",
+        "post_content": " '26-27\n足球tips\n熱刺-1/-1.5\n格拉斯哥流浪-2\n李斯特城 2.5/3上盤\n發達發夢自己揀\n開開心心過聖誕'",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88677",
+        "post_time": "2019年12月23日 09:57",
+        "post_content": " '你好，本人是本科碩士一年級生，有意參加校園創業計劃。但其中一個要求係團隊需要有本科大二或以下學生。\n如果係不甘平凡既你，歡迎係到留個言，我會直接聯繫你。謝謝。'",
+        "post_comments": [
+            {
+                "name": "Kiris Kong",
+                "text": "which faculty sin?"
+            },
+            {
+                "name": "Victor Cheong",
+                "text": "Pm"
+            },
+            {
+                "name": "Edwan Wong",
+                "text": "hi"
+            },
+            {
+                "name": "Ck Tam",
+                "text": "Pm"
+            },
+            {
+                "name": "Yuki Ng",
+                "text": "Hi"
+            },
+            {
+                "name": "Adrian Ng",
+                "text": "Pm"
+            },
+            {
+                "name": "Chan Chi Kin",
+                "text": "pm"
+            },
+            {
+                "name": "Johnny Wu",
+                "text": "hi"
+            },
+            {
+                "name": "Pui Man Cheung",
+                "text": "Hi"
+            },
+            {
+                "name": "Ma Hoihim",
+                "text": "Hi"
+            },
+            {
+                "name": "Candy Kuanyt",
+                "text": "pm"
+            },
+            {
+                "name": "Candy Kuanyt",
+                "text": "here"
+            },
+            {
+                "name": "Nima Ge Bi",
+                "text": "什么叫本科硕士？"
+            },
+            {
+                "name": "Atse Jason",
+                "text": "PM 本科大二"
+            }
+        ],
+        "post_like": "6",
+        "post_comments_number": 14
+    },
+    {
+        "post_author": "#NUMS88676",
+        "post_time": "2019年12月23日 09:56",
+        "post_content": " 'https://www.youtube.com/watch?v=IDcxxXCO_mg\n縱使走的路與當初期望的不同,現在的你還向著當初的目標努力著嗎?'",
         "post_comments": null,
         "post_like": "3",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86919",
-        "post_time": "October 13 at 12:33 AM",
-        "post_content": "即使被人阻止都好，大家都要着黑衫\nhttps://www.facebook.com/36710179065…/posts/421659735202692/'",
+        "post_author": "#NUMS88675",
+        "post_time": "2019年12月23日 09:56",
+        "post_content": " '邊到睇grade",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88674",
+        "post_time": "2019年12月23日 09:56",
+        "post_content": " '今日晏就係東方明珠見到精彩一幕, 一架MZ字頭香港單牌白色跑車好似好威咁一轉燈即刻俾行油衝前入港珠澳連接路路口, 但係我地澳門代表黑的亦都不遑多讓, 差唔多同一時間衝前入連接路路口, 最終部香港單牌車都係要踩break, 可見澳門人幾團結, 係自己地頭輸人唔輸陣",
+        "post_comments": null,
+        "post_like": "16",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88673",
+        "post_time": "2019年12月23日 09:56",
+        "post_content": " '車流量統計調查員招聘\n工作內容 : 計算路面車輛數量\n工作時間 : 1月6日-12日其中4天 (早上7-10點 下午5-8點)\n時薪 : $70/hr (4天做足$80/hr)\n有興趣可以填下面問卷\nhttps://forms.gle/mUKxcPBedLEZLTy56'",
+        "post_comments": [
+            {
+                "name": "Wei Ling Zeng",
+                "text": "Calvin Lam"
+            },
+            {
+                "name": "Wei Ling Zeng",
+                "text": "KA Weng Chan Alex Chen"
+            },
+            {
+                "name": "Calvin Lam",
+                "text": "Wei Ling Zeng 又黎？。。"
+            },
+            {
+                "name": "Wei Ling Zeng",
+                "text": "Calvin Lam 想做？"
+            },
+            {
+                "name": "KA Weng Chan",
+                "text": "Wei Ling Zeng 有趣"
+            },
+            {
+                "name": "Box Chan",
+                "text": "Jason Fong"
+            },
+            {
+                "name": "Tiger Cheong",
+                "text": "Fong Leo $80/hr"
+            },
+            {
+                "name": "Fong Leo",
+                "text": "不了不了 唔想又數車流"
+            },
+            {
+                "name": "Tiger Cheong",
+                "text": "but u hv 豐富經驗喎"
+            },
+            {
+                "name": "Tom Lei",
+                "text": "Jennifer Vong 龔昊 （Hou Kong） 你有經驗"
+            },
+            {
+                "name": "Jennifer Vong",
+                "text": "Tom Lei 講到你冇經驗咁"
+            },
+            {
+                "name": "Kiris Kong",
+                "text": "Hi"
+            },
+            {
+                "name": "Teddy Cheong",
+                "text": "Kain Leong"
+            },
+            {
+                "name": "Kain Leong",
+                "text": "Teddy Cheong 報左啦🤣"
+            }
+        ],
+        "post_like": "3",
+        "post_comments_number": 14
+    },
+    {
+        "post_author": "#NUMS88672",
+        "post_time": "2019年12月23日 09:56",
+        "post_content": " '唔好話我健哥無教精大家。當保險妹妹姐姐叫你買單時，你一定要講得！好！無問題。跟住買咗一次單，肯定要續啦係咪先，咁你就咪續，等對方搵你，女方主動，咁仲洗我教？錢都比埋啦，仲差咩？雞你都叫過啦，仲洗我教？係咪要我借埋間房比你？",
+        "post_comments": null,
+        "post_like": "5",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88671",
+        "post_time": "2019年12月23日 09:55",
+        "post_content": " '點解Um啲文 搞到好似 on9仔女文咁低端既？",
+        "post_comments": [
+            {
+                "name": "Edward Cheong",
+                "text": "買番件嬲啦 6uo仔"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88670",
+        "post_time": "2019年12月23日 09:55",
+        "post_content": " '我好膚淺，其實我唔知除咗錢，一段感情仲可以基於咩上。我愛魚，但我是說我愛吃魚！抱歉了，魚",
+        "post_comments": [
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee仲有人覺得你香喎"
+            },
+            {
+                "name": "Ricky Au",
+                "text": "StarFish老是常出現"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "StarFish Lee真香"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88669",
+        "post_time": "2019年12月23日 09:55",
+        "post_content": " '當對方hea比反應時我仲追唔追好？例如：吓,咩，？，哦。",
+        "post_comments": null,
+        "post_like": "25",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88668",
+        "post_time": "2019年12月23日 09:55",
+        "post_content": " 'https://umcourse.tk/",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88667",
+        "post_time": "2019年12月23日 09:55",
+        "post_content": " '支持祖國 滅港救澳！\n即使香港人會變到幾文明幾nice幾愛國都好 我始終都唔會認佢地係自己人 我亦唔會gur同佢地一齊共存 澳門萬歲'",
+        "post_comments": [
+            {
+                "name": "Mandy Ho",
+                "text": "分裂国家罪 bye~"
+            },
+            {
+                "name": "Chi Leong Ip",
+                "text": "沃元獨立!"
+            }
+        ],
+        "post_like": "11",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88666",
+        "post_time": "2019年12月23日 09:54",
+        "post_content": " '認真唔明我呢個讀語言既學生做乜鬼要修歷史地理物理數學。學埋學埋啲唔等洗既野，倒不如教下我點溝女/仔啦。唔等洗既教育制度。",
+        "post_comments": [
+            {
+                "name": "Wong Yik",
+                "text": "澳大教到你 呢啲咁嘅垃圾出黎真係慘"
+            },
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee教下"
+            }
+        ],
+        "post_like": "13",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88665",
+        "post_time": "2019年12月23日 09:54",
+        "post_content": " '聽君一言勝讀十年書！？ 想問下邊個教授做得到？求tag",
+        "post_comments": [
+            {
+                "name": "Kiris Kong",
+                "text": "FLL"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88664",
+        "post_time": "2019年12月23日 09:54",
+        "post_content": " '想問下邊到睇到下個Sem有咩堂開，注册處好似開唔到咁",
         "post_comments": null,
         "post_like": "1",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86918",
-        "post_time": "October 13 at 12:32 AM",
-        "post_content": "移民去香港澳門戈班人，點解你地要離開中國？因為香港澳門比較好？既然你地認為離開中國係好既話，咁點解你地仲要話中國好又話香港搞事呢？貪香港地方細，訓教唔洗轉身？唔中意咪番上去囉，落黎做乜。你揀得黎移民你心入邊就知道佢係好先移，依加又話人依樣戈樣\n不報來辯'",
+        "post_author": "#NUMS88663",
+        "post_time": "2019年12月23日 09:54",
+        "post_content": " \nhttps://youtu.be/WRRX2iO0Ros",
         "post_comments": null,
-        "post_like": "11",
+        "post_like": "1",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86917",
-        "post_time": "October 13 at 12:32 AM",
-        "post_content": "「我渴望戰爭」——我有篇作文，如果大家想睇，夠五十個讚，我可以分享我既秘密。",
+        "post_author": "#NUMS88662",
+        "post_time": "2019年12月23日 09:54",
+        "post_content": " 'https://www.youtube.com/watch?v=LxC0kD-GuBQ\n良いお年を'",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88661",
+        "post_time": "2019年12月23日 09:53",
+        "post_content": " '澳大Secret所有posts都係我寫！\n我時男時女時gay時直，純情A0係我，渣賤男女都係我，大陸閪澳燦港豬彎彎仲加係我；我一時藍一時黃，一時綠到發青光，遲啲仲可以發出彩虹幻光，為地球光污染做出重大貢獻！\n為咗哩個page嘅發展，我每日絞盡腦漿，努力分裂新人格，釋迦牟尼有三千化身，我都有三千人格，我地每人每日都努力寫post，努力到痴線寫出哩篇post，所以Admin你幾時可以出份糧比我睇精神科'",
+        "post_comments": [
+            {
+                "name": "Roy Lee",
+                "text": "窮姐，唔駛咁大聲"
+            }
+        ],
+        "post_like": "61",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88660",
+        "post_time": "2019年12月23日 09:51",
+        "post_content": " '識咗個高中弟弟話未大學唔拍得拖，但又成日借啲嘢黐埋黎，行到邊跟到邊，咩料？\n想同我一齊入打令浴室？'",
+        "post_comments": [
+            {
+                "name": "Gustav Elijah Åhr",
+                "text": "Elmo Thoma"
+            }
+        ],
+        "post_like": "22",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88659",
+        "post_time": "2019年12月23日 09:51",
+        "post_content": " '我宜家話我好愛胡錦濤會發生咩事？",
+        "post_comments": null,
+        "post_like": "7",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88658",
+        "post_time": "2019年12月23日 09:51",
+        "post_content": " '[有感而發] 有啲長可以skip💩\n小弟覺得大學嘅友情易消失或者可以叫容易被淡忘\n由大一開始叫做好似識到幾個有野傾嘅朋友 認定咗以為佢哋係可以交心嘅朋友之後開始不停付出對朋友s好 但係得出嘅效果可以用差去形容 因為咁樣所以反省自己邊到做得唔夠好 問題係諗來諗去都揾唔到答案 心淡算9數 快啲讀埋個大學畢業算\n來自一位法學院講野1999嘅柒頭上'",
+        "post_comments": [
+            {
+                "name": "Smallwhite Dear",
+                "text": "Ka San Choi 心灰意冷"
+            },
+            {
+                "name": "Kuan Hou Lai",
+                "text": "Chi Hin Mok"
+            },
+            {
+                "name": "Chi Hin Mok",
+                "text": "Kuan Hou Lai not me"
+            },
+            {
+                "name": "Lap Siu",
+                "text": "Chi Hin Mok法學院講野1999嘅柒頭"
+            },
+            {
+                "name": "Chi Hin Mok",
+                "text": "Not me"
+            },
+            {
+                "name": "Elizabeth Sun",
+                "text": "Woody Choi Io San Lei Kevin Lei你地就調9轉 中學同學吾撚記得左？ 食7啦你地"
+            },
+            {
+                "name": "Io San Lei",
+                "text": "Elizabeth Sun 你消撚左失啊柒酸酸"
+            },
+            {
+                "name": "Woody Choi",
+                "text": "Elizabeth Sun 你消撚左失啊柒酸酸"
+            },
+            {
+                "name": "Joe Cheong",
+                "text": "Wei Ling Zeng仲唔係你？"
+            },
+            {
+                "name": "Wei Ling Zeng",
+                "text": "我估係佢Raul Lotlicar"
+            },
+            {
+                "name": "Raul Lotlicar",
+                "text": "Joe Cheong 我估係佢😏"
+            }
+        ],
+        "post_like": "19",
+        "post_comments_number": 11
+    },
+    {
+        "post_author": "#NUMS88657",
+        "post_time": "2019年12月23日 09:51",
+        "post_content": " '我識左佢幾年同佢讀同一間中學都未見過佢霸凌過仼何人喎 同學你被害妄想定順水跟下風啊",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88656",
+        "post_time": "2019年12月23日 09:50",
+        "post_content": " 'https://www.facebook.com/366285370148044/posts/2467651553344738/",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88655",
+        "post_time": "2019年12月23日 09:50",
+        "post_content": " '認真問：邊間書院無咁伏同住得安心啲",
+        "post_comments": [
+            {
+                "name": "Chan Chon Kei",
+                "text": "蔡繼有書院"
+            },
+            {
+                "name": "Otis Lei",
+                "text": "蔡繼有書院"
+            },
+            {
+                "name": "黃子健",
+                "text": "CKLC"
+            },
+            {
+                "name": "黃文杰",
+                "text": "Cklc"
+            },
+            {
+                "name": "Hong Wong",
+                "text": "蔡繼有 活動多 膳食優"
+            },
+            {
+                "name": "Chon Fat Lao",
+                "text": "蔡繼有囉 屌你老母 講過幾多次"
+            },
+            {
+                "name": "Tiffany Yeung",
+                "text": "Chon Fat Lao 咁惡做咩呢？"
+            }
+        ],
+        "post_like": "13",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88654",
+        "post_time": "2019年12月23日 09:50",
+        "post_content": " '我記得上年p5成日泊住部899，點解今年唔見左",
+        "post_comments": [
+            {
+                "name": "Jason Wong",
+                "text": "JuBy Lao畢左業都唔講聲"
+            }
+        ],
+        "post_like": "0",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88653",
+        "post_time": "2019年12月23日 09:50",
+        "post_content": " '幾時先出成績?",
         "post_comments": null,
         "post_like": "3",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86917",
-        "post_time": "error",
-        "post_content": "error",
+        "post_author": "#NUMS88652",
+        "post_time": "2019年12月23日 09:50",
+        "post_content": " '\n匿名真爽！！\n匿名萬歲！！！'",
         "post_comments": null,
-        "post_like": "97",
+        "post_like": "3",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86916",
-        "post_time": "October 10 at 5:00 AM",
-        "post_content": "真‧國慶節快樂\nhttps://upload.cc/i1/2019/10/10/5BYHhL.png\n'",
+        "post_author": "#NUMS88651",
+        "post_time": "2019年12月23日 09:49",
+        "post_content": " '最近見secrets出現了某些文章（如來源於人民日報或China daily)，因而向大家推介一篇文章。\n出處：\nhttps://m.facebook.com/story.php?story_fbid=2491158107587488&substory_index=0&id=690475490989101\n【由星島賣盤，想起媒體的紅色滲透】\n星島新聞集團上星期五宣佈，正與對公司有興趣之潛在獨立投資者進行磋商，對此，董事會亦戴了頭盔，指磋商可能成事，亦可能不成事。但拋開這次賣盤可能牽涉到集團掌權人的自身考慮以及股票市場操作，單是「媒體賣盤」這事，已令我想起了早前讀的《紅色滲透：中國媒體全球擴張的真相》。\n《紅色滲透》一書由著名的媒體人及政治、經濟學學者何清漣所著，由名字可見，談的就是中國媒體在全世界的擴張，那何以星島賣盤會令我想起這書呢？就在於作者在書中提到，中國「大外宣」的執行方法。\n簡單來說，這方法離不開一個「買」字。國家級的媒體在外地建立分社、辦公室，用錢「買」空間；高薪聘請在地的傳媒人才，務求用當地人感興趣的形式將訊息傳達，用錢「買」人才；一些亞非窮困國家的記者，則以奬學金、貴賓式招待、採訪特權等來建立關係，用錢「買」人心，當然，還有一招就是：連人帶舖把你買下。《星島日報》正正屬於此一例子。\n書中的第四章「香港回歸後媒體的喉舌化」就有談到此事。作者順著歷史的發展，試圖將港英時期、回歸後的媒體情況還原，而談到「愛國富商」在回歸後的辦媒體熱情時，《星島日報》就是案例。作者指出，《星島日報》由東南亞華僑富商胡文虎於1938年創辦，2004年時，胡文虎的女兒胡仙把股權賣給泛華集團，而泛華集體則是由親中色彩濃厚的何柱國擁有；透過支持親中商人收購媒體，以在商場上明買明賣的方式，將控制之手伸進媒體當中。當然，《星島日報》絕對不是唯一，放眼遠望，《南華早報》、《明報》、TVB的故事，其實也相似無比。\n所以，當有人說：我不看《星島日報》、《頭條日報》只用來墊枱、《東周刊》更是久未拿上手，從而推論星島賣盤一事註定告吹時，我卻覺得，只要有國家支持，媒體集團還是會有價有市的。\n以上所談的，不是危言聳聽，而是明明白白發生在我們眼前的事，也正因如此，支持獨立的媒體、支持專業的記者、支持有質素的報導，才變得如斯重要——寸土必爭，因為我們所失的，可能已經是所有。\n========================\n其他文章\n無冕王者：http://bit.ly/2JUcXcD\n被新聞出賣的我們：http://bit.ly/2pOEeWR'",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88650",
+        "post_time": "2019年12月23日 09:49",
+        "post_content": " '大陸蝗？ 我呸",
+        "post_comments": null,
+        "post_like": "3",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88649",
+        "post_time": "2019年12月23日 09:49",
+        "post_content": " '有事去唔到😭😭\n放兩張1228盧廣仲演唱會門票\n原價2張共MOP1176 可議\n有意留個like 我會穩你'",
         "post_comments": [
             {
-                "name": "姚蚊子的日記",
-                "text": "中華民國生日快樂"
+                "name": "Kiris Kong",
+                "text": "咁貴"
             }
         ],
-        "post_like": "57",
+        "post_like": "3",
         "post_comments_number": 1
     },
     {
-        "post_author": "#NUMS86915",
-        "post_time": "October 10 at 5:00 AM",
-        "post_content": "校長！黨大啲定母佑會大啲",
+        "post_author": "#NUMS88648",
+        "post_time": "2019年12月23日 09:49",
+        "post_content": " 'https://www.facebook.com/188721851177800/posts/2824785877571371?sfns=mo",
+        "post_comments": null,
+        "post_like": "6",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88647",
+        "post_time": "2019年12月21日 08:19",
+        "post_content": " '澳門有冇耳機燒友谷?",
+        "post_comments": null,
+        "post_like": "4",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88646",
+        "post_time": "2019年12月21日 08:19",
+        "post_content": " 'Class Timetable (2nd Semester of Academic Year 2019/2020)\n新課表出爐啦\n.\n屌\n又四日早八係咩料'",
         "post_comments": [
             {
-                "name": "New UM Secrets - Backup",
-                "text": "習大！"
+                "name": "Kc Ho",
+                "text": "默默地貼上排課表嘅小助手\nhttps://kchomacau.github.io/timetable/"
+            },
+            {
+                "name": "Chong Sutieng",
+                "text": "Ieng Lei Lao咩料"
+            },
+            {
+                "name": "Ieng Lei Lao",
+                "text": "Chong Sutieng 爽🥰"
+            }
+        ],
+        "post_like": "26",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88645",
+        "post_time": "2019年12月21日 08:19",
+        "post_content": " '有冇人係中華/新中華/大中華學車，咩師傅好？",
+        "post_comments": [
+            {
+                "name": "Vivi Vivi",
+                "text": "新中華梁師傅"
+            },
+            {
+                "name": "Terry Leung",
+                "text": "王師傅"
+            },
+            {
+                "name": "Box Chan",
+                "text": "Terry Leung 又害人"
+            },
+            {
+                "name": "Kenny Chan",
+                "text": "乜都好🌚"
+            },
+            {
+                "name": "Amos Lei",
+                "text": "莫師傅"
+            },
+            {
+                "name": "Kiris Kong",
+                "text": "大偉"
+            },
+            {
+                "name": "Michael Lei",
+                "text": "Edwin SouTom Wong"
+            },
+            {
+                "name": "Edwin Sou",
+                "text": "Michael Lei 你推薦下比人"
+            },
+            {
+                "name": "Michael Lei",
+                "text": "Edwin Sou 入殯偉明師傅"
+            },
+            {
+                "name": "Chi Chong Fong",
+                "text": "Kok IO Chak 痴線"
+            },
+            {
+                "name": "Kok IO Chak",
+                "text": "Chi Chong Fong 唔好信師傅"
+            },
+            {
+                "name": "Chi Chong Fong",
+                "text": "d師傅唔係到架"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "康師傳"
+            },
+            {
+                "name": "SAti HeNg",
+                "text": "不了"
+            },
+            {
+                "name": "屈曉峰",
+                "text": "隔離屋嘅老王"
+            },
+            {
+                "name": "Vivian Chong",
+                "text": "全部都想你飲"
+            }
+        ],
+        "post_like": "5",
+        "post_comments_number": 16
+    },
+    {
+        "post_author": "#NUMS88644",
+        "post_time": "2019年12月21日 08:19",
+        "post_content": " 'Sir Gerry Grimstone, who was a British businessman, live in Hong Kong for a long time, previously chairman of Standard Life and group deputy chairman of Barclays plc, the holding company for the Barclays Group, wanna told you guys who support the riots of Hong Kong recently:\n''Even though this evening is about Macao, because of Macao’s closeness geographically and emotionally to Hong Kong, I thought it would not be inappropriate to make a few remarks about Hong Kong.\nHopes were high and the opportunities available to Hong Kong and Macao were profound. They had the benefits of their two Systems. They could continue with the many aspects that make Hong Kong and Macao such special places but they were also part of the great nation that is China.\nThe future looked bright. Unfortunately, as far as Hong Kong is concerned, that may no longer be the case.\nThe social problems that Hong Kong has faced over the last six months are destroying the credibility of Hong Kong.\nI find it very sad that some people in Hong Kong do not seem to realise the consequences of what is now happening and that some external people do not understand that their interventions are only making matters worse.\nInstead of international firms seeing Hong Kong as the gateway to Chinese mainland, they are wondering if some in Hong Kong are trying to close the door.\nHong Kong people should ask themselves the question 'what is Hong Kong without China?'\nThe changes that are happening in the Greater Bay Area are profound and I see Macao taking full advantage of them.\nHong Kong should be relishing the opportunities that this gives them.\nViolence, as we have seen in Hong Kong, as a means to an end, is utterly unacceptable.\nHow would British police respond if petrol bombs were thrown at them? They could and would not tolerate it!\nThe rule of law is a cherished matter. Hong Kong’s prosperity depends on Hong Kong people not just recognising this but embracing it whole heartedly.\nI say again, that is impossible without Hong Kong being part of the China Miracle. That is the basis on which British and other international firms have invested there.\nSo I hope and pray that normal life will return to Hong Kong and that, as in Macao, people can again go about their daily lives again without fear and worry.\nAs we sit back to enjoy this wonderful evening, let’s trust that Macao and Hong Kong side by side continue to prosper from One Country Two Systems and take full advantage of the opportunities that this gives them.'''",
+        "post_comments": null,
+        "post_like": "4",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88643",
+        "post_time": "2019年12月21日 08:18",
+        "post_content": " 'https://youtu.be/FaCi8_o8xwQ",
+        "post_comments": null,
+        "post_like": "0",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88642",
+        "post_time": "2019年12月21日 08:18",
+        "post_content": " '收到好人卡應該點？",
+        "post_comments": [
+            {
+                "name": "姚蚊子的日記",
+                "text": "Give up and find the other one"
+            },
+            {
+                "name": "Lo Kai Kai",
+                "text": "儲够20張換公仔？"
+            },
+            {
+                "name": "Jacky Lee",
+                "text": "Lo Kai Kai 好有經驗咁"
+            },
+            {
+                "name": "Lei Io Chong",
+                "text": "Lo Kai Kai 派唔小咁喎"
+            },
+            {
+                "name": "Lo Kai Kai",
+                "text": "Jacky Lee 可能我收好人卡太多👀"
+            },
+            {
+                "name": "Lo Kai Kai",
+                "text": "Lei Io Chong 邊有呢個資格"
+            },
+            {
+                "name": "Jacky Lee",
+                "text": "Lo Kai Kai 明明係派得多"
+            },
+            {
+                "name": "Lo Kai Kai",
+                "text": "Jacky Lee 邊有啊 單身狗一個"
+            },
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee 改下性取向"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "Clay Vong 講到改完唔洗收咁😢"
+            }
+        ],
+        "post_like": "6",
+        "post_comments_number": 10
+    },
+    {
+        "post_author": "#NUMS88641",
+        "post_time": "2019年12月21日 08:17",
+        "post_content": " '出咗grade 未？",
+        "post_comments": [
+            {
+                "name": "John Iu",
+                "text": "出左幾科"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88640",
+        "post_time": "2019年12月21日 08:17",
+        "post_content": " '點解習大大唔去香港",
+        "post_comments": [
+            {
+                "name": "Kiris Kong",
+                "text": "我都想知"
+            },
+            {
+                "name": "黃小殷",
+                "text": "因為已經好溫暖，不需要傳遍"
+            },
+            {
+                "name": "Si Seng Wai",
+                "text": "暖到成條街都係煙，唔洗去啦"
+            }
+        ],
+        "post_like": "5",
+        "post_comments_number": 3
+    },
+    {
+        "post_author": "#NUMS88639",
+        "post_time": "2019年12月21日 08:15",
+        "post_content": " 'J😍 https://youtu.be/ECItICHC2O8",
+        "post_comments": [
+            {
+                "name": "Chork Peter",
+                "text": "Nicola Leong"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88638",
+        "post_time": "2019年12月21日 08:14",
+        "post_content": " '習大大佢堅似維尼\n習大大再封殺維尼\n習大大會千世萬世，任期做夠未\n若然做生意，跪低啦頂你，迪士尼得返4～0～4'",
+        "post_comments": [
+            {
+                "name": "Muji Shi",
+                "text": "唔好傳謠，淘寶上“維尼熊”隨便買"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "郭富城ge弱？"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "Hon Chio LeiVladimir NgKong IekHin係咪你地po"
+            },
+            {
+                "name": "Vladimir Ng",
+                "text": "Mike Kuok oh shit"
+            },
+            {
+                "name": "Vladimir Ng",
+                "text": "Mike Kuok 等陣um secrets都變404"
+            },
+            {
+                "name": "Kong IekHin",
+                "text": "Vladimir Ng 孟晚舟"
+            }
+        ],
+        "post_like": "24",
+        "post_comments_number": 6
+    },
+    {
+        "post_author": "#NUMS88637",
+        "post_time": "2019年12月21日 08:14",
+        "post_content": " ''想問問幾時先會知道自己D成績？\n'",
+        "post_comments": [
+            {
+                "name": "John Iu",
+                "text": "12月27/30"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88636",
+        "post_time": "2019年12月21日 08:13",
+        "post_content": " '这几十年，我渐渐觉得中国的社会制度是世界上最先进的制度。讲这样的话不易，十年前我自己也不接受，今天相信不同意的人也很多，但我相信这是事实。\n什么是好的社会制度?我相信：\n1，政治稳定，有保证政权平稳更替、权力交接的机制，并不为权力过渡造成巨大社会动荡，耗费大量社会资源。\n2，通过建立社会管理机制，保证社会治安良好，公民不会随时为人身安全担忧，不会随意被杀害。\n3，社会追求相对公平，社会下层有上升通道，社会上绝大部分人拥有改变命运的机会，努力者得到尊重与回报。社会不是极度形成阶级固化和贵族、贱民阶层。\n4，社会经济富有活力，有较高的经济增长率，社会有进取精神，人民生活逐渐改善，社会绝大部分人在经济发展中有获得感。\n5，社会建立弱势人群的保障机制，在社会发展的前提下，将一定份额的资源用于支持基础教育，帮助扶贫，帮助落后地区建设与发展。\n6，国家安全，国家主权不受侵犯，不受国外势力的讹诈，本国人民在国际上有尊严。\n7，社会基础资源不是掌握在财团手中，成为少数人牟利的工具，国有企业掌握基础资源为全社会提供低收费的服务，以维护社会公平。\n对照下这些，我相信这个制度是世界上最先进的，未来50年这个制度是中国成为世界领导者的根本保证。'",
+        "post_comments": [
+            {
+                "name": "Natalie Hoiiankei",
+                "text": "經濟有幾好都好 人民質素差 最終都係虛有其表 睇下著名玻璃心民族就知"
+            },
+            {
+                "name": "Kit Cheang",
+                "text": "睇完呢7點真係笑死 冇任何reference去support嘅野連討論價值都冇"
+            },
+            {
+                "name": "Samuel Vong",
+                "text": "Kit Cheang 曲直難分"
+            },
+            {
+                "name": "Kevin Lio",
+                "text": "Joao Miguel Lansang"
+            },
+            {
+                "name": "Peng Kuok",
+                "text": "中国亦都係全世界打飛機最叻\n中国亦都有最似維尼嘅国家主席\n中国亦都係世界上其中一個上唔到facebook嘅国家\n中国亦都係其領導人鼓吹愛国但心繫外國嘅国家\n厲害了我的国"
+            },
+            {
+                "name": "區永燁",
+                "text": "好似冇樣做到喎，你個野係咪壞咗啊？"
+            },
+            {
+                "name": "Howard Chiang",
+                "text": "區永燁 勁wo"
+            },
+            {
+                "name": "Lok Kakin",
+                "text": "聽講從來都係得中國侵犯人地國家主權🤭"
+            },
+            {
+                "name": "Charles Wan",
+                "text": "你好,同学,请问老师有没有教你分享别人的文章要标明出处？\nhttps://m.weibo.cn/status/Ilx2780VK"
+            },
+            {
+                "name": "Lao Chak On",
+                "text": "Charles Wan 優秀"
+            },
+            {
+                "name": "Roy Lee",
+                "text": "Charles Wan 特色黎架😏"
+            },
+            {
+                "name": "Charles Wan",
+                "text": "Lao Chak On 只要把文中的第一句複製，之後在谷歌和百度上可以找到原文"
+            }
+        ],
+        "post_like": "24",
+        "post_comments_number": 12
+    },
+    {
+        "post_author": "#NUMS88635",
+        "post_time": "2019年12月21日 08:13",
+        "post_content": " '#NUMS88596 hi-bye向來只係比貼學校/屬會宣傳品，唔好話memo，外賣傳單都唔比啦屌你",
+        "post_comments": [
+            {
+                "name": "Xavier Li",
+                "text": "#海一居 #雙重標重"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88634",
+        "post_time": "2019年12月21日 08:13",
+        "post_content": " '最近分手，有咩歌岩聽",
+        "post_comments": [
+            {
+                "name": "Lam Cheng Fong",
+                "text": "黄子華講過失戀聽慘情歌等於漏煤氣閂窗。"
+            },
+            {
+                "name": "Roy Lee",
+                "text": "一於唱校歌\n再唔係就國歌\n保證精神"
+            },
+            {
+                "name": "Vladimir Ng",
+                "text": "願榮光歸香港"
+            },
+            {
+                "name": "Choi Wai Pou",
+                "text": "Lonely Christmas"
+            },
+            {
+                "name": "Brendan Ip",
+                "text": "Kary Ng - 座右銘"
+            },
+            {
+                "name": "Michelle Jackson Whu",
+                "text": "到此為止"
+            },
+            {
+                "name": "Adam Cheng Chan",
+                "text": "藍天"
+            },
+            {
+                "name": "HI NG",
+                "text": "HouLeong Wong"
+            },
+            {
+                "name": "HouLeong Wong",
+                "text": "https://www.youtube.com/watch?v=BPoHZQfQsDw"
+            },
+            {
+                "name": "Ann Wong",
+                "text": "天光前分手"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "你的名字我的姓氏"
+            },
+            {
+                "name": "紀雲",
+                "text": "點會係呢首?聽吳雨霏嘅生命樹啦"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "紀雲 諗住搞笑"
+            },
+            {
+                "name": "紀雲",
+                "text": "Nardo Lalala 搞笑就搵尹光啦，搵學友做乜😂"
+            },
+            {
+                "name": "曾賢舜",
+                "text": "帥到分手？"
+            },
+            {
+                "name": "王晓晞",
+                "text": "國際歌"
+            },
+            {
+                "name": "James Pong",
+                "text": "Funky Town"
+            },
+            {
+                "name": "Jeff Chau",
+                "text": "James Pong 聽年年都有今日歲歲都有今朝"
+            },
+            {
+                "name": "屈曉峰",
+                "text": "抵抗失戀沖喜套餐\n只需$1888/位"
+            },
+            {
+                "name": "Mita Lam",
+                "text": "人間失格"
+            }
+        ],
+        "post_like": "8",
+        "post_comments_number": 20
+    },
+    {
+        "post_author": "#NUMS88633",
+        "post_time": "2019年12月21日 08:13",
+        "post_content": " '飲水思源啊副會長",
+        "post_comments": null,
+        "post_like": "4",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88632",
+        "post_time": "2019年12月21日 08:13",
+        "post_content": " '我係class schedules入面已經搵唔到比小粉紅投訴個prof",
+        "post_comments": [
+            {
+                "name": "Vincent Wu",
+                "text": "同學想太多了"
             }
         ],
         "post_like": "6",
         "post_comments_number": 1
     },
     {
-        "post_author": "#NUMS86914",
-        "post_time": "October 10 at 4:59 AM",
-        "post_content": "今日10號晏就 喺hibye橋e6個邊\n有條女揸住粉色相機係咁影行過嘅人\n我唔知你係咪想影人大頭\n我同你講 咁樣做我地係唔會驚㗎'",
+        "post_author": "#NUMS88631",
+        "post_time": "2019年12月21日 08:12",
+        "post_content": " '出左Timetable 想知有無遇killer, 想知仲有無暗黑資料庫可以查?",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88630",
+        "post_time": "2019年12月21日 08:12",
+        "post_content": " '感人\nhttps://www.facebook.com/…/a.3880435683830…/763283260859067…'",
         "post_comments": [
             {
-                "name": "John Bill",
-                "text": "9成係攝影堂要交功課啦🤣"
+                "name": "Nardo Lalala",
+                "text": "下次用口含住習弟弟 包保更溫暖"
             }
         ],
-        "post_like": "43",
+        "post_like": "19",
         "post_comments_number": 1
     },
     {
-        "post_author": "#NUMS86913",
-        "post_time": "October 10 at 4:59 AM",
-        "post_content": "提提各位新生 如果你地對於上堂有疑問或者覺得課表太辛苦 可以前往N6 withdraw以避免攞F 以上資訊由某位熱心的大二師兄提供",
+        "post_author": "#NUMS88629",
+        "post_time": "2019年12月21日 08:12",
+        "post_content": " '有冇師兄讀過comm1001",
+        "post_comments": [
+            {
+                "name": "Hou Nam Choi",
+                "text": "comm Raymond正"
+            },
+            {
+                "name": "Roy Chao",
+                "text": "Andy Ho"
+            },
+            {
+                "name": "Andy Ho",
+                "text": "我個係comm1000囉"
+            },
+            {
+                "name": "HowAbout Larry",
+                "text": "Tiffany YeungMickey Mio讀書未"
+            },
+            {
+                "name": "Tiffany Yeung",
+                "text": "HowAbout Larry C grade小嘍囉在此路過"
+            },
+            {
+                "name": "Edwin Sou",
+                "text": "Tom Wong 有咁多野揀點解係都要入地獄"
+            },
+            {
+                "name": "Tom Wong",
+                "text": "Edwin Sou 我依d叫好學 free rider係唔會理解到"
+            }
+        ],
+        "post_like": "6",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88628",
+        "post_time": "2019年12月21日 08:11",
+        "post_content": " '做的時候突然大叫你「媽！！！」然後泄了，這是分手的意思嗎？",
+        "post_comments": [
+            {
+                "name": "羅少澤",
+                "text": "蔡振熙做咩? 點解我唔明"
+            },
+            {
+                "name": "蔡振熙",
+                "text": "我都5明"
+            }
+        ],
+        "post_like": "2",
+        "post_comments_number": 2
+    },
+    {
+        "post_author": "#NUMS88627",
+        "post_time": "2019年12月21日 08:10",
+        "post_content": " '愛情無分對錯係因為兩邊都有錯，想息事寧人，就係唔想局外人指手劃腳。",
         "post_comments": null,
-        "post_like": "21",
+        "post_like": "4",
         "post_comments_number": 0
     },
     {
-        "post_author": "#NUMS86912",
-        "post_time": "October 10 at 4:59 AM",
-        "post_content": "求大屠殺GELH2002個堂既舊卷",
-        "post_comments": null,
-        "post_like": "5",
-        "post_comments_number": 0
+        "post_author": "#NUMS88626",
+        "post_time": "2019年12月21日 08:10",
+        "post_content": " '做咩咁嬲嬲豬啊？一講名校就出黎就踩人垃圾、廢物，你都係名校出黎嘅極品黎。有證據就講唔好係度發爛渣喎。",
+        "post_comments": [
+            {
+                "name": "Ban Ban",
+                "text": "連澳大都考唔到就係垃圾中的垃圾"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
     },
     {
-        "post_author": "#NUMS86911",
-        "post_time": "October 10 at 4:58 AM",
-        "post_content": "聽講呂志和有個DJ?",
+        "post_author": "#NUMS88625",
+        "post_time": "2019年12月21日 08:09",
+        "post_content": " '啲人造謠真係做得越嚟越過分喎\n搞到我都唔知笑好定喊好😅\n不是不報\n時候未到\n你即管繼續 希望你唔會後悔啦'",
+        "post_comments": [
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee 邊有造謠姐 事實你係女多喎"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88624",
+        "post_time": "2019年12月21日 08:09",
+        "post_content": " '傳盒入面係唔係有人叫王私",
         "post_comments": null,
         "post_like": "2",
         "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88623",
+        "post_time": "2019年12月21日 08:08",
+        "post_content": " '噶你老母",
+        "post_comments": [
+            {
+                "name": "Sam Chao",
+                "text": "噶🤓"
+            },
+            {
+                "name": "ChanPong Lao",
+                "text": "Woody Suen"
+            },
+            {
+                "name": "StarFish Lee",
+                "text": "系噶"
+            },
+            {
+                "name": "Cheok Un Cheng",
+                "text": "系甘噶 Norvin Ng"
+            },
+            {
+                "name": "Norvin Ng",
+                "text": "Cheok Un Cheng 做乜柒呀"
+            },
+            {
+                "name": "Man Kun Ao Ieong",
+                "text": "Mandy Chan又嬲"
+            },
+            {
+                "name": "Mandy Chan",
+                "text": "Man Kun Ao Ieong 系吖hhh"
+            }
+        ],
+        "post_like": "38",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88622",
+        "post_time": "2019年12月21日 08:08",
+        "post_content": " '第一次約女仔出街食乜好？",
+        "post_comments": [
+            {
+                "name": "Weng Lam",
+                "text": "Edmond Iao"
+            },
+            {
+                "name": "李俊燃",
+                "text": "Gary Lam教下人"
+            },
+            {
+                "name": "Gary Lam",
+                "text": "李俊燃 去打邊爐"
+            },
+            {
+                "name": "紀雲",
+                "text": "食自助餐，留意吓佢揀咩食物😎"
+            },
+            {
+                "name": "Nardo Lalala",
+                "text": "書院飯"
+            },
+            {
+                "name": "William Au",
+                "text": "呃蝦條"
+            },
+            {
+                "name": "Choi Kits",
+                "text": "M記"
+            }
+        ],
+        "post_like": "3",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88621",
+        "post_time": "2019年12月21日 08:08",
+        "post_content": " '其實真係唔明\n都「準老師」啦，仲出貓嘅～\n到時你地又拎高GRADE了\n我都要繼續憑努力讀書了\n今個SEM終於都完SEM啦\n希望大家新一年好好讀書！精神 '",
+        "post_comments": [
+            {
+                "name": "Wengchon Kuan",
+                "text": "Chiman Tang"
+            },
+            {
+                "name": "Chiman Tang",
+                "text": "Wengchon Kuan 又屈我"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "JulianaIo Wengu (Iwu)"
+            },
+            {
+                "name": "JulianaIo Wengu",
+                "text": "Mike Kuok sorry"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "HI Lo😟"
+            },
+            {
+                "name": "HI Lo",
+                "text": "Sam Chao 從不"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "HI Lo 從不放棄出貓？"
+            }
+        ],
+        "post_like": "13",
+        "post_comments_number": 7
+    },
+    {
+        "post_author": "#NUMS88620",
+        "post_time": "2019年12月21日 08:08",
+        "post_content": " '沃門大學d大陸監考人員可不可以唔好持續咁咳，集中唔到精神呀",
+        "post_comments": [
+            {
+                "name": "Roy Lee",
+                "text": "記住個旋律應該幫到你\nhttps://youtu.be/xtn_SmyT87s"
+            }
+        ],
+        "post_like": "4",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88619",
+        "post_time": "2019年12月21日 08:07",
+        "post_content": " '真係好鐘意果個女仔，大家都識大家，以前都有傾計，但係唔知幾時開始突然唔敢direct，驚佢hea9我，send gif圖，好忐忑",
+        "post_comments": null,
+        "post_like": "8",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88618",
+        "post_time": "2019年12月21日 08:07",
+        "post_content": " '好耐無落雨~大家霖下上次係幾時落雨!!!",
+        "post_comments": null,
+        "post_like": "2",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88617",
+        "post_time": "2019年12月21日 08:07",
+        "post_content": " '考完試就出車車啦....MT家族，Z家族，忍者家族，小阿魯大阿魯，棍仔（街車，啡鈴）嘅都可以約一約架😏最好有師姐師妹啦🤪",
+        "post_comments": [
+            {
+                "name": "Eddie Chong",
+                "text": "Bing Lch 最後一個sem比大家跟最速09學野"
+            },
+            {
+                "name": "Leong Hin Seng",
+                "text": "Ivan Cheong 呢個po 個style似邊個出😂 雖然唔係"
+            },
+            {
+                "name": "Lei Io Chong",
+                "text": "Hou Wan Chan有錢人既世界 我不懂"
+            },
+            {
+                "name": "Dickson Huen",
+                "text": "West Allen我小阿魯跟車得唔得"
+            },
+            {
+                "name": "West Allen",
+                "text": "Dickson Huen 我架車無名無份添🤣"
+            },
+            {
+                "name": "Dickson Huen",
+                "text": "West Allen Cb系列 囉"
+            },
+            {
+                "name": "Ethan Chong",
+                "text": "Sin Chi Leong勁戰家族"
+            },
+            {
+                "name": "Sin Chi Leong",
+                "text": "Ethan Chong 窮到得勁戰"
+            },
+            {
+                "name": "K.k. Cheong",
+                "text": "Pang CheongChong Manlo 無你部Ducati 份"
+            }
+        ],
+        "post_like": "9",
+        "post_comments_number": 9
+    },
+    {
+        "post_author": "#NUMS88616",
+        "post_time": "2019年12月21日 08:07",
+        "post_content": " '五大訴求 缺一不可 光復香港 時代革命\n講完都覺得自己中二病🤢 呢d口號係咪‘反清復明’ d fd 🤣'",
+        "post_comments": [
+            {
+                "name": "Peng Kuok",
+                "text": "講最開popo最愛中国就最有型啦"
+            },
+            {
+                "name": "林諾軒",
+                "text": "Chork Peter"
+            },
+            {
+                "name": "Sam Chao",
+                "text": "同學你get唔get中二病點解"
+            },
+            {
+                "name": "Hou Ka Loi",
+                "text": "叫下口號咪算囉，真係革命?不了，聽日仲要返工。"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "支持警察 嚴正執法 一國一制 武力解放 !"
+            }
+        ],
+        "post_like": "8",
+        "post_comments_number": 5
+    },
+    {
+        "post_author": "#NUMS88615",
+        "post_time": "2019年12月21日 08:06",
+        "post_content": " '香港人？ 我呸",
+        "post_comments": [
+            {
+                "name": "Donald Lok",
+                "text": "得啦沃門人"
+            }
+        ],
+        "post_like": "1",
+        "post_comments_number": 1
+    },
+    {
+        "post_author": "#NUMS88614",
+        "post_time": "2019年12月21日 08:06",
+        "post_content": " '澳大好女仔真係買少見少...遇到真係要好好珍惜..好後悔..",
+        "post_comments": [
+            {
+                "name": "Michelle Jackson Whu",
+                "text": "Kuan Kenny遇到要好好珍惜🤣"
+            },
+            {
+                "name": "Kuan Kenny",
+                "text": "好"
+            },
+            {
+                "name": "May Lin",
+                "text": "Carol Wong"
+            },
+            {
+                "name": "Carol Wong",
+                "text": "May Lin therefore I will cherish u more than anyone"
+            },
+            {
+                "name": "Yoyo Mak",
+                "text": "Michelle Chiang Coco Chan"
+            },
+            {
+                "name": "Rico Cheong",
+                "text": "Savannah Cheang Iok Lei 要珍惜我"
+            },
+            {
+                "name": "Savannah Cheang",
+                "text": "Rico Cheong 好似我先係喎🤔"
+            },
+            {
+                "name": "Weng Sun",
+                "text": "Carman Lo ok 👌"
+            },
+            {
+                "name": "Carman Lo",
+                "text": "Weng Sun 好好珍惜我"
+            },
+            {
+                "name": "Clay Vong",
+                "text": "StarFish Lee 後悔？"
+            },
+            {
+                "name": "Rosabelle Lei",
+                "text": "InChon Lam"
+            },
+            {
+                "name": "Loretta Tou",
+                "text": "Chi Iao Chao澳大好女仔！"
+            },
+            {
+                "name": "Chi Iao Chao",
+                "text": "Loretta Tou 我買少見少"
+            },
+            {
+                "name": "Miki Leong",
+                "text": "Tiffany Yeung 俾個機會我珍惜你"
+            },
+            {
+                "name": "Tiffany Yeung",
+                "text": "Miki Leong 多謝你仲珍惜我🤣"
+            }
+        ],
+        "post_like": "25",
+        "post_comments_number": 15
+    },
+    {
+        "post_author": "#NUMS88613",
+        "post_time": "2019年12月21日 08:05",
+        "post_content": " 'GEST1001 final份卷係比人做嘅咩？",
+        "post_comments": [
+            {
+                "name": "Nikita Lei",
+                "text": "有難度嗎Soi Lon Lei"
+            },
+            {
+                "name": "Soi Lon Lei",
+                "text": "Nikita Lei 鬼知😰"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "Kitty SinKaWai WongLai Sang SioChan Hou Kuok"
+            },
+            {
+                "name": "KaWai Wong",
+                "text": "Mike Kuok 可能我唔係?"
+            },
+            {
+                "name": "Chan Hou Kuok",
+                "text": "Mike Kuok 除左矩陣都識 67"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "我唔識"
+            },
+            {
+                "name": "Kitty Sin",
+                "text": "Mike Kuok 你一個攞A嘅人係到tag？"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "Kitty Sin 妖言惑眾"
+            },
+            {
+                "name": "Lai Sang Sio",
+                "text": "Mike Kuok you GPA over 3.5 la"
+            },
+            {
+                "name": "Mike Kuok",
+                "text": "Lai Sang Sio 溫習啦"
+            },
+            {
+                "name": "Kitty Sin",
+                "text": "Mike Kuok 事實🙄️"
+            }
+        ],
+        "post_like": "8",
+        "post_comments_number": 11
+    },
+    {
+        "post_author": "#NUMS88612",
+        "post_time": "2019年12月21日 08:05",
+        "post_content": " '我覺得我成世人做過最錯嘅決定就系讀會計，究竟系咪我太蠢？真系覺得呢科越讀越難讀。e加先大二，已經讀成咁，畢唔畢到業都成問題。 我讀教育系嘅室友，又冇mid-term, final 又差唔多科科開卷，又成日大把時間pt, 每次見佢好似冇咩壓力咁，真系好羨慕囉。",
+        "post_comments": null,
+        "post_like": "45",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88611",
+        "post_time": "2019年12月21日 08:05",
+        "post_content": " '下個學期希望可以同你有同堂啦 見到你係韓國終於開心返 我都覺得無咁擔心 加油！",
+        "post_comments": [
+            {
+                "name": "Michael Lei",
+                "text": "楊植麒"
+            },
+            {
+                "name": "TongIeong Ng",
+                "text": "Waihou Lam 加油"
+            },
+            {
+                "name": "Houlong Chan",
+                "text": "Cloris Chao u?"
+            },
+            {
+                "name": "Cloris Chao",
+                "text": "Houlong Chan diu😂咁多人去韓國 可能係Ashley或者燊仔😌"
+            }
+        ],
+        "post_like": "6",
+        "post_comments_number": 4
+    },
+    {
+        "post_author": "#NUMS88610",
+        "post_time": "2019年12月21日 08:05",
+        "post_content": " '唔好再講黃定藍啦。先驗下你地係咪澳門人，今次習總過嚟帶比澳門咩好處？至少三點啦。答唔到你就咪再講自己係中國人",
+        "post_comments": [
+            {
+                "name": "Sam Chao",
+                "text": "晴朗嘅天氣\n解決全球暖化嘅辦法\n暢順嘅交通情況\n繁榮穩定\n半個澳門停手田中心......有假放！\n夠唔夠🥰"
+            },
+            {
+                "name": "Chi Leong Ip",
+                "text": "朝早射一次 中午射一次 臨訓射多次"
+            },
+            {
+                "name": "John Bill",
+                "text": "濠賭股升到Fat fat呀，多謝王帝🥰"
+            },
+            {
+                "name": "Lok Kakin",
+                "text": "順暢既交通\n無車既道路\n安靜既西灣橋"
+            },
+            {
+                "name": "Tiffany Yeung",
+                "text": "令澳門嘅冬天變得更溫暖"
+            }
+        ],
+        "post_like": "20",
+        "post_comments_number": 5
+    },
+    {
+        "post_author": "#NUMS88609",
+        "post_time": "2019年12月21日 08:04",
+        "post_content": " '習總來了",
+        "post_comments": null,
+        "post_like": "1",
+        "post_comments_number": 0
+    },
+    {
+        "post_author": "#NUMS88608",
+        "post_time": "2019年12月21日 08:04",
+        "post_content": " '让“爱国爱澳”核心价值薪火相传\n拳拳赤子心，殷殷爱国情。大庆前夕的澳门街头，“庆祝澳门回归祖国20周年”的横幅随处可见，“庆祝中华人民共和国成立70周年”的标语依然醒目。\n“澳门人从来没有动摇对‘一国两制’的信任，对祖国的感情一点没有减少”“澳门回归后，爱国爱澳已从一种民间情怀转化成为全社会的核心价值”“未来的澳门，不变的是稳定，爱国爱澳的传统、对国家的情怀不能变”……澳门历任特首近日接受采访时，不约而同地把“爱国爱澳”作为澳门回归20年的关键词。从1999年回归，澳门同胞自发到拱北口岸欢迎驻澳官兵，到2008年汶川地震，澳门人均捐助善款近1万澳门元，再到2017年台风“天鸽”来袭，澳门市民为救灾的解放军送水送饭，深挚的爱国爱澳之情从未遗忘、愈发炽热。\n四百多年的殖民统治，没有阻断澳门与祖国的血肉深情。尽管这座城市以中西合璧著称，但华夏文化代代相传，与内地的联系从未中断。村民沈志亮伏击澳督亚马留、澳门热血青年奔赴抗日前线的故事在这里流传。澳门大街小巷中留存下来的林则徐纪念馆、郑家大屋、叶挺故居，正是一代代爱国人士驱逐外寇、救亡图存的见证。爱国故事的口口相传，民族血脉的亲子相继，民间社团的不懈努力，为澳门打下了重重的爱国底色。\n回归祖国20年，与内地同发展共繁荣，澳门迎来了历史上发展最快最好的时期。如果说5.6万平方公里的大湾区是澳门发展的有力依托，960万平方公里的祖国更是澳门前行的最大纵深。从保障电力饮食供给，到帮助抵御金融危机，再到近期推出的15项惠澳措施，接连不断的利好、广阔的市场空间、深入的交流合作是澳门经济社会快速发展的重要前提。发展惠及民生，无论是现金分享、水电补贴，还是出生津贴、免费教育，不断刷新的幸福指数成为具有澳门特色“一国两制”成功实践的生动注脚，更让“爱国爱澳”的社会基础愈发稳固。\n爱国爱澳这一长期形成的精神坐标，同样需要法律树立底线，需要教育持续引导。1949年10月1日，时任濠江中学校长杜岚不顾澳葡政府反对，在校舍里升起了鲜艳的五星红旗。2018年8月13日，澳门立法会通过《国旗、国徽及国歌的使用及保护》修订案，澳门大中小学将实现升挂国旗全覆盖。从顺利完成基本法第二十三条规定的立法任务，制定《维护国家安全法》，到根据全国人大常委会对香港基本法第104条释法，主动在立法会选举法修改法案中增加“防独”条款，从编写专门教材、推进中国历史教育，到组织团体到内地访学交流、深入了解国情，澳门特区将爱国爱澳教育制度化、法制化。一堂堂课、一次次升旗、一趟趟互访，让国家意识和爱国精神的种子在澳门市民心中生根发芽、茁壮成长。\n2019年，澳门相继收到了习近平主席写的两封信。在给澳门濠江中学附属英才学校的小朋友和澳门街坊总会颐骏中心长者义工组30位老人的回信中，习近平主席都提到了传承爱国爱澳的精神及传统。一老一少，象征着薪火相传。始终坚守爱国爱澳的价值追求，“一国两制”的生命力将不断延续，澳门的未来将更加可期。'",
+        "post_comments": [
+            {
+                "name": "Charles Wan",
+                "text": "请下次分享文章时标明原文出处\nhttps://news.sina.cn/.../detail-iihnzahi8379776.d.html"
+            },
+            {
+                "name": "Roy Lee",
+                "text": "哇，呢位朋友既奇文竊享（讀書人唔講「偷」我明既）都幾誠心喎🤗"
+            }
+        ],
+        "post_like": "6",
+        "post_comments_number": 2
     }
 ]
